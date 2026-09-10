@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.741045Z
+last_change = 2026-09-10T18:39:21.162357Z
 addr = 0x16db800
 size = 0x1ba
 name = "CEntitySaveRestoreBlockHandler_DoRestoreEntity"
+type = "long long"
 
 [header]
 name = "CEntitySaveRestoreBlockHandler_DoRestoreEntity"
 addr = 0x16db800
+type = "long long"
 
 [header.args]

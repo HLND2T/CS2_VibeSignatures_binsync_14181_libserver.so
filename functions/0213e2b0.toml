@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.741512Z
+last_change = 2026-09-10T18:39:28.700729Z
 addr = 0x213e2b0
 size = 0x1ea
 name = "CEntityInstance_UpdateOnRemove"
+type = "void"
 
 [header]
 name = "CEntityInstance_UpdateOnRemove"
 addr = 0x213e2b0
+type = "void"
 
 [header.args]

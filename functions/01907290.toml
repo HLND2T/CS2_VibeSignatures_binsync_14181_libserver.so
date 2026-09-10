@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.741350Z
+last_change = 2026-09-10T18:39:02.342060Z
 addr = 0x1907290
 size = 0x8b
 name = "CGameRules_GetSaveGameComment"
+type = "unsigned long long *"
 
 [header]
 name = "CGameRules_GetSaveGameComment"
 addr = 0x1907290
+type = "unsigned long long *"
 
 [header.args]

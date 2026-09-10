@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.741480Z
+last_change = 2026-09-10T18:39:02.342373Z
 addr = 0x1ada7e0
 size = 0x118
 name = "FireTargets"
+type = "void"
 
 [header]
 name = "FireTargets"
 addr = 0x1ada7e0
+type = "void"
 
 [header.args]

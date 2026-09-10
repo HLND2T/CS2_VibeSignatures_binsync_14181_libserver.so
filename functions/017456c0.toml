@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.741124Z
+last_change = 2026-09-10T18:39:02.341555Z
 addr = 0x17456c0
 size = 0x118
 name = "CLoopModeGame_SetGameSystemState"
+type = "long long"
 
 [header]
 name = "CLoopModeGame_SetGameSystemState"
 addr = 0x17456c0
+type = "long long"
 
 [header.args]

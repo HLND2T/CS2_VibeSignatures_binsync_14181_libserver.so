@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.741524Z
+last_change = 2026-09-10T18:39:02.342487Z
 addr = 0x2145540
 size = 0x1b4
 name = "CEntityKeyValues_LoadFromContext"
+type = "long long"
 
 [header]
 name = "CEntityKeyValues_LoadFromContext"
 addr = 0x2145540
+type = "long long"
 
 [header.args]

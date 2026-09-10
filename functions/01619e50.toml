@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.740996Z
+last_change = 2026-09-10T18:39:02.341212Z
 addr = 0x1619e50
 size = 0x46
 name = "CBasePlayerPawn_EyeVectors"
+type = "long long"
 
 [header]
 name = "CBasePlayerPawn_EyeVectors"
 addr = 0x1619e50
+type = "long long"
 
 [header.args]

@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.740550Z
+last_change = 2026-09-10T18:39:13.885070Z
 addr = 0xc1e990
 size = 0x1e8
 name = "BotKill_CommandHandler"
+type = "long long"
 
 [header]
 name = "BotKill_CommandHandler"
 addr = 0xc1e990
+type = "long long"
 
 [header.args]

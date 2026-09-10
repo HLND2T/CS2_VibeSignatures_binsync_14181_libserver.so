@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.740624Z
+last_change = 2026-09-10T18:39:02.340367Z
 addr = 0xd79700
 size = 0x111
 name = "CBaseEntity_Teleport"
+type = "long long"
 
 [header]
 name = "CBaseEntity_Teleport"
 addr = 0xd79700
+type = "long long"
 
 [header.args]

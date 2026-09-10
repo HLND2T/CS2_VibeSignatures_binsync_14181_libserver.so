@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.741315Z
+last_change = 2026-09-10T18:39:02.341972Z
 addr = 0x1859180
 size = 0x231
 name = "CBaseEntity_Activate"
+type = "long long"
 
 [header]
 name = "CBaseEntity_Activate"
 addr = 0x1859180
+type = "long long"
 
 [header.args]

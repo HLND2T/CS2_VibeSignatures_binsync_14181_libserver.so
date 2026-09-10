@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.741206Z
+last_change = 2026-09-10T18:39:02.341718Z
 addr = 0x17bff40
 size = 0x33
 name = "UTIL_PlayerSlotToPlayerController"
+type = "long long"
 
 [header]
 name = "UTIL_PlayerSlotToPlayerController"
 addr = 0x17bff40
+type = "long long"
 
 [header.args]

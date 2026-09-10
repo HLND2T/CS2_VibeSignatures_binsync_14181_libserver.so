@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.741188Z
+last_change = 2026-09-10T18:39:02.341680Z
 addr = 0x177a760
 size = 0x699
 name = "CPlayer_MovementServices_PlayWaterStepSound"
+type = "long long"
 
 [header]
 name = "CPlayer_MovementServices_PlayWaterStepSound"
 addr = 0x177a760
+type = "long long"
 
 [header.args]

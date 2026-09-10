@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.740986Z
+last_change = 2026-09-10T18:39:20.229789Z
 addr = 0x16163e0
 size = 0x58
 name = "CBasePlayerController_IsFakeClient"
+type = "long long"
 
 [header]
 name = "CBasePlayerController_IsFakeClient"
 addr = 0x16163e0
+type = "long long"
 
 [header.args]

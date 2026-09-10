@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.740493Z
+last_change = 2026-09-10T18:39:02.340084Z
 addr = 0xafc7a0
 size = 0x4ea
 name = "CCSPlayerPawn_PostThink"
+type = "long long"
 
 [header]
 name = "CCSPlayerPawn_PostThink"
 addr = 0xafc7a0
+type = "long long"
 
 [header.args]

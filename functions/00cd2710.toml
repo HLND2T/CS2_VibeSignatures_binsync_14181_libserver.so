@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.740574Z
+last_change = 2026-09-10T18:39:14.205833Z
 addr = 0xcd2710
 size = 0x553
 name = "CChicken_Event_Killed"
+type = "long long"
 
 [header]
 name = "CChicken_Event_Killed"
 addr = 0xcd2710
+type = "long long"
 
 [header.args]

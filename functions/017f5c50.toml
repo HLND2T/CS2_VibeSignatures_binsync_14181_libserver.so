@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.741222Z
+last_change = 2026-09-10T18:39:02.341756Z
 addr = 0x17f5c50
 size = 0x1aa
 name = "CBaseEntity_VPhysicsCollision"
+type = "float"
 
 [header]
 name = "CBaseEntity_VPhysicsCollision"
 addr = 0x17f5c50
+type = "float"
 
 [header.args]

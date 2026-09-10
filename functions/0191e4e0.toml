@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.741416Z
+last_change = 2026-09-10T18:39:02.342218Z
 addr = 0x191e4e0
 size = 0x361
 name = "CGameRules_SetGamePaused"
+type = "long long"
 
 [header]
 name = "CGameRules_SetGamePaused"
 addr = 0x191e4e0
+type = "long long"
 
 [header.args]

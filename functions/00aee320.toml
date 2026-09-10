@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.740472Z
+last_change = 2026-09-10T18:39:12.938229Z
 addr = 0xaee320
 size = 0xc1c
 name = "CCSPlayerPawn_ProcessSuicideAsKillReward"
+type = "long long"
 
 [header]
 name = "CCSPlayerPawn_ProcessSuicideAsKillReward"
 addr = 0xaee320
+type = "long long"
 
 [header.args]

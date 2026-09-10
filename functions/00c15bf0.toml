@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.740548Z
+last_change = 2026-09-10T18:39:13.842231Z
 addr = 0xc15bf0
 size = 0x1aa9
 name = "CCSBot_UpdatePathMovement"
+type = "long long"
 
 [header]
 name = "CCSBot_UpdatePathMovement"
 addr = 0xc15bf0
+type = "long long"
 
 [header.args]

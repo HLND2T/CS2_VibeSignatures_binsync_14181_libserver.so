@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.740873Z
+last_change = 2026-09-10T18:39:02.340957Z
 addr = 0x1566a80
 size = 0x1c
 name = "CCSPlayer_ItemServices_GiveNamedItemBool"
+type = "bool"
 
 [header]
 name = "CCSPlayer_ItemServices_GiveNamedItemBool"
 addr = 0x1566a80
+type = "bool"
 
 [header.args]

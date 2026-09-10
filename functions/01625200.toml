@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.741000Z
+last_change = 2026-09-10T18:39:02.341223Z
 addr = 0x1625200
 size = 0x253
 name = "CBasePlayerController_SetPlayerName"
+type = "void"
 
 [header]
 name = "CBasePlayerController_SetPlayerName"
 addr = 0x1625200
+type = "void"
 
 [header.args]

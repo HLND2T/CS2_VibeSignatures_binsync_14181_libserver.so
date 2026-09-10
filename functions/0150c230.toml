@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.740838Z
+last_change = 2026-09-10T18:39:02.340877Z
 addr = 0x150c230
 size = 0x45
 name = "CCSPlayerController_HandleCommandDrop"
+type = "long long"
 
 [header]
 name = "CCSPlayerController_HandleCommandDrop"
 addr = 0x150c230
+type = "long long"
 
 [header.args]

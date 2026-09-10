@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.740991Z
+last_change = 2026-09-10T18:39:02.341201Z
 addr = 0x16197f0
 size = 0x1c0
 name = "CBasePlayerPawn_GetEyeAngles"
+type = "__m128i"
 
 [header]
 name = "CBasePlayerPawn_GetEyeAngles"
 addr = 0x16197f0
+type = "__m128i"
 
 [header.args]

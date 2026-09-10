@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.741427Z
+last_change = 2026-09-10T18:39:02.342244Z
 addr = 0x193dc10
 size = 0xf5
 name = "CGamePlayerEquip_InputTriggerForActivatedPlayer"
+type = "void"
 
 [header]
 name = "CGamePlayerEquip_InputTriggerForActivatedPlayer"
 addr = 0x193dc10
+type = "void"
 
 [header.args]

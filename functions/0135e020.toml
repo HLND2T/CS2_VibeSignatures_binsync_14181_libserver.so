@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.740801Z
+last_change = 2026-09-10T18:39:02.340801Z
 addr = 0x135e020
 size = 0x55a
 name = "CHostage_Follow"
+type = "long long"
 
 [header]
 name = "CHostage_Follow"
 addr = 0x135e020
+type = "long long"
 
 [header.args]

@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.741559Z
+last_change = 2026-09-10T18:39:29.594455Z
 addr = 0x2150510
 size = 0x149
 name = "CEntitySystem_AddEntityIOEventToQueue"
+type = "long long"
 
 [header]
 name = "CEntitySystem_AddEntityIOEventToQueue"
 addr = 0x2150510
+type = "long long"
 
 [header.args]

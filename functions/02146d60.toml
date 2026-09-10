@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.741537Z
+last_change = 2026-09-10T18:39:02.342521Z
 addr = 0x2146d60
 size = 0x61
 name = "CEntitySystem_OnSetDormant"
+type = "long long"
 
 [header]
 name = "CEntitySystem_OnSetDormant"
 addr = 0x2146d60
+type = "long long"
 
 [header.args]

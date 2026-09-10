@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.741193Z
+last_change = 2026-09-10T18:39:02.341691Z
 addr = 0x1782500
 size = 0x3d8
 name = "CPlayer_MovementServices_ForceButtons"
+type = "long long"
 
 [header]
 name = "CPlayer_MovementServices_ForceButtons"
 addr = 0x1782500
+type = "long long"
 
 [header.args]

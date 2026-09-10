@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.741503Z
+last_change = 2026-09-10T18:39:02.342432Z
 addr = 0x213d990
 size = 0x8
 name = "CEntityInstance_Connect"
+type = "void"
 
 [header]
 name = "CEntityInstance_Connect"
 addr = 0x213d990
+type = "void"
 
 [header.args]

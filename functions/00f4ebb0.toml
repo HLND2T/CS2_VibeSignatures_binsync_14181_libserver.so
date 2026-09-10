@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.740681Z
+last_change = 2026-09-10T18:39:02.340492Z
 addr = 0xf4ebb0
 size = 0x14a
 name = "CSpawnGroupMgrGameSystem_GetSpawnGroups"
+type = "void"
 
 [header]
 name = "CSpawnGroupMgrGameSystem_GetSpawnGroups"
 addr = 0xf4ebb0
+type = "void"
 
 [header.args]

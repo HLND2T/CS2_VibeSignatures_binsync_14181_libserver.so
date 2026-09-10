@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.741497Z
+last_change = 2026-09-10T18:39:28.417487Z
 addr = 0x213c5d0
 size = 0x515
-name = "CEntityIdentity_AcceptInput"
+name = "CEntityIdentity_AcceptInputInternal"
+type = "long long"
 
 [header]
-name = "CEntityIdentity_AcceptInput"
+name = "CEntityIdentity_AcceptInputInternal"
 addr = 0x213c5d0
+type = "long long"
 
 [header.args]

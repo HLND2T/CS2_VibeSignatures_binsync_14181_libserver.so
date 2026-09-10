@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.740539Z
+last_change = 2026-09-10T18:39:02.340188Z
 addr = 0xc0ca90
 size = 0x603
 name = "CCSBotManager_AddBot"
+type = "long long"
 
 [header]
 name = "CCSBotManager_AddBot"
 addr = 0xc0ca90
+type = "long long"
 
 [header.args]

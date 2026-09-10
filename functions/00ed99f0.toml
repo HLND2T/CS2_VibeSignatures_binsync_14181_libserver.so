@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.740634Z
+last_change = 2026-09-10T18:39:02.340389Z
 addr = 0xed99f0
 size = 0x535
 name = "DecalPlacementInfo_ctor"
+type = "long long"
 
 [header]
 name = "DecalPlacementInfo_ctor"
 addr = 0xed99f0
+type = "long long"
 
 [header.args]

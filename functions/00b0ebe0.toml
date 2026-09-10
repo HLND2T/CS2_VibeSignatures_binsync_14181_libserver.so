@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.740501Z
+last_change = 2026-09-10T18:39:13.194494Z
 addr = 0xb0ebe0
 size = 0x676
 name = "CDedicatedServerWorkshopManager_SwitchToWorkshopMapGroup"
+type = "long long"
 
 [header]
 name = "CDedicatedServerWorkshopManager_SwitchToWorkshopMapGroup"
 addr = 0xb0ebe0
+type = "long long"
 
 [header.args]

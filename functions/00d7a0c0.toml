@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.740627Z
+last_change = 2026-09-10T18:39:02.340372Z
 addr = 0xd7a0c0
 size = 0x189d
 name = "CBaseEntity_DrawDebugTextOverlays"
+type = "void"
 
 [header]
 name = "CBaseEntity_DrawDebugTextOverlays"
 addr = 0xd7a0c0
+type = "void"
 
 [header.args]

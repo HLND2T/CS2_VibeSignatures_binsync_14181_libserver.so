@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.741346Z
+last_change = 2026-09-10T18:39:02.342050Z
 addr = 0x19071c0
 size = 0x5f
 name = "CSource2Server_GetLevelsFromSaveFile"
+type = "long long"
 
 [header]
 name = "CSource2Server_GetLevelsFromSaveFile"
 addr = 0x19071c0
+type = "long long"
 
 [header.args]

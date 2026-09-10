@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.741582Z
+last_change = 2026-09-10T18:39:30.020303Z
 addr = 0x2159280
 size = 0x186
 name = "CEntitySystem_ProcessEntityRegistration"
+type = "void"
 
 [header]
 name = "CEntitySystem_ProcessEntityRegistration"
 addr = 0x2159280
+type = "void"
 
 [header.args]

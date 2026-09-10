@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.740852Z
+last_change = 2026-09-10T18:39:02.340909Z
 addr = 0x1532850
 size = 0x1df
 name = "WeaponBuy"
+type = "long long"
 
 [header]
 name = "WeaponBuy"
 addr = 0x1532850
+type = "long long"
 
 [header.args]

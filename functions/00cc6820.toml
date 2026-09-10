@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.740571Z
+last_change = 2026-09-10T18:39:02.340261Z
 addr = 0xcc6820
 size = 0x192c
 name = "CInferno_InfernoThink"
+type = "long long"
 
 [header]
 name = "CInferno_InfernoThink"
 addr = 0xcc6820
+type = "long long"
 
 [header.args]

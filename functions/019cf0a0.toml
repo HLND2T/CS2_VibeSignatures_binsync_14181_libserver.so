@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.741453Z
+last_change = 2026-09-10T18:39:02.342308Z
 addr = 0x19cf0a0
 size = 0x83
 name = "CPhysBox_Use"
+type = "long long"
 
 [header]
 name = "CPhysBox_Use"
 addr = 0x19cf0a0
+type = "long long"
 
 [header.args]

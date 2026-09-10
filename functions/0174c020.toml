@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.741148Z
+last_change = 2026-09-10T18:39:22.885608Z
 addr = 0x174c020
 size = 0x15a
 name = "CLoopModeGame_OnLoopDeactivate"
+type = "unsigned long long"
 
 [header]
 name = "CLoopModeGame_OnLoopDeactivate"
 addr = 0x174c020
+type = "unsigned long long"
 
 [header.args]

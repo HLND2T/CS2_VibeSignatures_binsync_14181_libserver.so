@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.740820Z
+last_change = 2026-09-10T18:39:17.998428Z
 addr = 0x1435ab0
 size = 0x274
 name = "SmokeVolume_GetSmokeDensityInLine_Lambda1_operator_call"
+type = "long long"
 
 [header]
 name = "SmokeVolume_GetSmokeDensityInLine_Lambda1_operator_call"
 addr = 0x1435ab0
+type = "long long"
 
 [header.args]

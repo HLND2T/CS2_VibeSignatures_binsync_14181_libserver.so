@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.741505Z
+last_change = 2026-09-10T18:39:02.342436Z
 addr = 0x213d9a0
 size = 0x8
 name = "CEntityInstance_Disconnect"
+type = "void"
 
 [header]
 name = "CEntityInstance_Disconnect"
 addr = 0x213d9a0
+type = "void"
 
 [header.args]

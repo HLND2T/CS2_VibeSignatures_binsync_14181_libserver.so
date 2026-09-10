@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.740866Z
+last_change = 2026-09-10T18:39:02.340942Z
 addr = 0x155fb40
 size = 0x5d
 name = "CCSPlayerController_SwitchTeam"
+type = "long long"
 
 [header]
 name = "CCSPlayerController_SwitchTeam"
 addr = 0x155fb40
+type = "long long"
 
 [header.args]

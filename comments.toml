@@ -564,3 +564,1459 @@ addr = 0x216cabb
 func_addr = 0x216c620
 comment = "jumptable 000000000216C7B3 case 25"
 decompiled = false
+
+[0xa3b5d8]
+last_change = 2026-09-10T18:39:12.650607Z
+addr = 0xa3b5d8
+func_addr = 0xa3b5d0
+comment = "0x38 = 56LL = CBaseEntity::m_NetworkTransmitComponent"
+decompiled = true
+
+[0xaa5187]
+last_change = 2026-09-10T18:39:12.757865Z
+addr = 0xaa5187
+func_addr = 0xaa5010
+comment = "0x2D8 = 728LL = CNetworkTransmitComponent::m_nStateFlags"
+decompiled = false
+
+[0xaa5190]
+last_change = 2026-09-10T18:39:12.764097Z
+addr = 0xaa5190
+func_addr = 0xaa5010
+comment = "0x2D8 = 728LL = CNetworkTransmitComponent::m_nStateFlags"
+decompiled = true
+
+[0xaec3fe]
+last_change = 2026-09-10T18:39:12.902381Z
+addr = 0xaec3fe
+func_addr = 0xaebe30
+comment = "_QWORD"
+decompiled = false
+
+[0xaec542]
+last_change = 2026-09-10T18:39:12.902408Z
+addr = 0xaec542
+func_addr = 0xaebe30
+comment = "_QWORD"
+decompiled = false
+
+[0xaeeedf]
+last_change = 2026-09-10T18:39:12.938207Z
+addr = 0xaeeedf
+func_addr = 0xaee320
+comment = "_QWORD"
+decompiled = false
+
+[0xaeef20]
+last_change = 2026-09-10T18:39:12.938229Z
+addr = 0xaeef20
+func_addr = 0xaee320
+comment = "_QWORD"
+decompiled = false
+
+[0xaf95d7]
+last_change = 2026-09-10T18:39:13.045235Z
+addr = 0xaf95d7
+func_addr = 0xaf8940
+comment = "_QWORD"
+decompiled = false
+
+[0xb04589]
+last_change = 2026-09-10T18:39:13.116846Z
+addr = 0xb04589
+func_addr = 0xb02e20
+comment = "_QWORD"
+decompiled = false
+
+[0xb046fb]
+last_change = 2026-09-10T18:39:13.116872Z
+addr = 0xb046fb
+func_addr = 0xb02e20
+comment = "_QWORD"
+decompiled = false
+
+[0xb0ed72]
+last_change = 2026-09-10T18:39:13.188261Z
+addr = 0xb0ed72
+func_addr = 0xb0ebe0
+comment = "0x130 = 304LL = IGameTypes_CreateWorkshopMapGroup"
+decompiled = false
+
+[0xb0ed50]
+last_change = 2026-09-10T18:39:13.194494Z
+addr = 0xb0ed50
+func_addr = 0xb0ebe0
+comment = "0x130 = 304LL = IGameTypes_CreateWorkshopMapGroup"
+decompiled = true
+
+[0xbb01f2]
+last_change = 2026-09-10T18:39:13.477881Z
+addr = 0xbb01f2
+func_addr = 0xbb01c0
+comment = "0x178 = 376LL = CEntityInstance_Schema_DynamicBinding"
+decompiled = true
+
+[0xbc7a42]
+last_change = 2026-09-10T18:39:13.514353Z
+addr = 0xbc7a42
+func_addr = 0xbc71e0
+comment = "_QWORD"
+decompiled = false
+
+[0xbc7a47]
+last_change = 2026-09-10T18:39:13.514379Z
+addr = 0xbc7a47
+func_addr = 0xbc71e0
+comment = "_QWORD"
+decompiled = false
+
+[0xbc90c2]
+last_change = 2026-09-10T18:39:13.550710Z
+addr = 0xbc90c2
+func_addr = 0xbc9050
+comment = "0xCD0 = 3280LL = CEntitySystem::m_EntityKeyValuesAllocator"
+decompiled = true
+
+[0xc0c4f5]
+last_change = 2026-09-10T18:39:13.660006Z
+addr = 0xc0c4f5
+func_addr = 0xc0c4a0
+comment = "0x538 = 1336LL = CBaseEntity_IsAlive"
+decompiled = true
+
+[0xc0c579]
+last_change = 2026-09-10T18:39:13.660039Z
+addr = 0xc0c579
+func_addr = 0xc0c4a0
+comment = "0x5D0 = 1488LL = CBaseEntity_GetEyePosition"
+decompiled = true
+
+[0xc0c610]
+last_change = 2026-09-10T18:39:13.660047Z
+addr = 0xc0c610
+func_addr = 0xc0c4a0
+comment = "_QWORD"
+decompiled = false
+
+[0xc0c612]
+last_change = 2026-09-10T18:39:13.660054Z
+addr = 0xc0c612
+func_addr = 0xc0c4a0
+comment = "_QWORD"
+decompiled = false
+
+[0xc0c65b]
+last_change = 2026-09-10T18:39:13.660060Z
+addr = 0xc0c65b
+func_addr = 0xc0c4a0
+comment = "_QWORD"
+decompiled = false
+
+[0xc0c65d]
+last_change = 2026-09-10T18:39:13.660066Z
+addr = 0xc0c65d
+func_addr = 0xc0c4a0
+comment = "_QWORD"
+decompiled = false
+
+[0xc0c6a4]
+last_change = 2026-09-10T18:39:13.660073Z
+addr = 0xc0c6a4
+func_addr = 0xc0c4a0
+comment = "_QWORD"
+decompiled = false
+
+[0xc0c6a6]
+last_change = 2026-09-10T18:39:13.660079Z
+addr = 0xc0c6a6
+func_addr = 0xc0c4a0
+comment = "_QWORD"
+decompiled = false
+
+[0xc0c6c5]
+last_change = 2026-09-10T18:39:13.660085Z
+addr = 0xc0c6c5
+func_addr = 0xc0c4a0
+comment = "_QWORD"
+decompiled = false
+
+[0xc0c6c7]
+last_change = 2026-09-10T18:39:13.660091Z
+addr = 0xc0c6c7
+func_addr = 0xc0c4a0
+comment = "_QWORD"
+decompiled = false
+
+[0xc170cd]
+last_change = 2026-09-10T18:39:13.842231Z
+addr = 0xc170cd
+func_addr = 0xc15bf0
+comment = "_QWORD"
+decompiled = false
+
+[0xc1eadd]
+last_change = 2026-09-10T18:39:13.878806Z
+addr = 0xc1eadd
+func_addr = 0xc1e990
+comment = "0xC00 = 3072LL = CBasePlayerPawn_CommitSuicide"
+decompiled = false
+
+[0xc1ead9]
+last_change = 2026-09-10T18:39:13.885070Z
+addr = 0xc1ead9
+func_addr = 0xc1e990
+comment = "0xC00 = 3072LL = CBasePlayerPawn_CommitSuicide"
+decompiled = true
+
+[0xcd283b]
+last_change = 2026-09-10T18:39:14.205833Z
+addr = 0xcd283b
+func_addr = 0xcd2710
+comment = "_QWORD"
+decompiled = false
+
+[0xd678c3]
+last_change = 2026-09-10T18:39:14.788671Z
+addr = 0xd678c3
+func_addr = 0xd66f00
+comment = "0x3F8 = 1016LL = CBaseEntity_OnTakeDamage"
+decompiled = true
+
+[0xd6f598]
+last_change = 2026-09-10T18:39:14.861516Z
+addr = 0xd6f598
+func_addr = 0xd6f580
+comment = "0x870 = 2160LL = CBaseTrigger_PassesTriggerFilters"
+decompiled = true
+
+[0xed8a65]
+last_change = 2026-09-10T18:39:15.006444Z
+addr = 0xed8a65
+func_addr = 0xed8780
+comment = "0xC0 = 192LL = CGameSceneNode_PreInstanceSpawn"
+decompiled = true
+
+[0xee13c0]
+last_change = 2026-09-10T18:39:15.112669Z
+addr = 0xee13c0
+func_addr = 0xee12c0
+comment = "0x10 = 16LL = IGameSystemFactory_Shutdown"
+decompiled = true
+
+[0xf02c7b]
+last_change = 2026-09-10T18:39:15.329457Z
+addr = 0xf02c7b
+func_addr = 0xf02bc0
+comment = "0x8 = 8LL = IGameSystemFactory_PostInit"
+decompiled = true
+
+[0xf02cbd]
+last_change = 2026-09-10T18:39:15.329508Z
+addr = 0xf02cbd
+func_addr = 0xf02bc0
+comment = "0x48 = 72LL = IGameSystemFactory_GetStaticGameSystem"
+decompiled = false
+
+[0xf02cc0]
+last_change = 2026-09-10T18:39:15.335578Z
+addr = 0xf02cc0
+func_addr = 0xf02bc0
+comment = "0x48 = 72LL = IGameSystemFactory_GetStaticGameSystem"
+decompiled = true
+
+[0xf3a657]
+last_change = 2026-09-10T18:39:15.438255Z
+addr = 0xf3a657
+func_addr = 0xf3a610
+comment = "0x3C8 = 968LL = IVPhys2World_GetTouchingList"
+decompiled = true
+
+[0xf43109]
+last_change = 2026-09-10T18:39:15.616825Z
+addr = 0xf43109
+func_addr = 0xf43090
+comment = "0x200 = 512LL = IVEngineServer2_MakeSpawnGroupActive"
+decompiled = true
+
+[0x134c879]
+last_change = 2026-09-10T18:39:17.703148Z
+addr = 0x134c879
+func_addr = 0x134c740
+comment = "0xF8 = 248LL = CEntityInstance_AssignChangeAccessorPathIdsPolymorphic"
+decompiled = true
+
+[0x134c986]
+last_change = 2026-09-10T18:39:17.703210Z
+addr = 0x134c986
+func_addr = 0x134c740
+comment = "0x138 = 312LL = CEntityInstance_GetChangeAccessorPathInfo_2"
+decompiled = true
+
+[0x134cc3b]
+last_change = 2026-09-10T18:39:17.703226Z
+addr = 0x134cc3b
+func_addr = 0x134c740
+comment = "0xF0 = 240LL = CEntityInstance_AddChangeAccessorPathPolymorphic"
+decompiled = true
+
+[0x13d4ce8]
+last_change = 2026-09-10T18:39:17.848074Z
+addr = 0x13d4ce8
+func_addr = 0x13d4a90
+comment = "_QWORD"
+decompiled = false
+
+[0x13d4cea]
+last_change = 2026-09-10T18:39:17.848135Z
+addr = 0x13d4cea
+func_addr = 0x13d4a90
+comment = "_QWORD"
+decompiled = false
+
+[0x1435aeb]
+last_change = 2026-09-10T18:39:17.993307Z
+addr = 0x1435aeb
+func_addr = 0x1435ab0
+comment = "0xEC = 236LL = SmokeVolume::m_nFrame"
+decompiled = false
+
+[0x1435b13]
+last_change = 2026-09-10T18:39:17.998428Z
+addr = 0x1435b13
+func_addr = 0x1435ab0
+comment = "0xEC = 236LL = SmokeVolume::m_nFrame"
+decompiled = true
+
+[0x14377af]
+last_change = 2026-09-10T18:39:18.028753Z
+addr = 0x14377af
+func_addr = 0x1437790
+comment = "0xD4 = 212LL = SmokeVolume::m_vecCenterOrigin"
+decompiled = true
+
+[0x14377bf]
+last_change = 2026-09-10T18:39:18.028808Z
+addr = 0x14377bf
+func_addr = 0x1437790
+comment = "0x70 = 112LL = SmokeVolume::m_pStorage"
+decompiled = true
+
+[0x1437884]
+last_change = 2026-09-10T18:39:18.028823Z
+addr = 0x1437884
+func_addr = 0x1437790
+comment = "0xC = 12LL = SmokeVolume::m_flStartTime"
+decompiled = true
+
+[0x1454a79]
+last_change = 2026-09-10T18:39:18.135211Z
+addr = 0x1454a79
+func_addr = 0x14548c0
+comment = "0xDB0 = 3504LL = CSmokeGrenadeProjectile::m_SmokeVolume"
+decompiled = false
+
+[0x1454a80]
+last_change = 2026-09-10T18:39:18.140222Z
+addr = 0x1454a80
+func_addr = 0x14548c0
+comment = "0xDB0 = 3504LL = CSmokeGrenadeProjectile::m_SmokeVolume"
+decompiled = true
+
+[0x15476cf]
+last_change = 2026-09-10T18:39:18.528972Z
+addr = 0x15476cf
+func_addr = 0x1546fc0
+comment = "0x68 = 104LL = CTakeDamageInfo::HitGroupInfo"
+decompiled = true
+
+[0x1547db8]
+last_change = 2026-09-10T18:39:18.529039Z
+addr = 0x1547db8
+func_addr = 0x1546fc0
+comment = "_QWORD"
+decompiled = false
+
+[0x155e55e]
+last_change = 2026-09-10T18:39:18.637215Z
+addr = 0x155e55e
+func_addr = 0x155e230
+comment = "0x228 = 552LL = IVEngineServer2_GetClientSteamID"
+decompiled = true
+
+[0x156619f]
+last_change = 2026-09-10T18:39:18.746348Z
+addr = 0x156619f
+func_addr = 0x1566020
+comment = "_QWORD"
+decompiled = false
+
+[0x15661a6]
+last_change = 2026-09-10T18:39:18.746417Z
+addr = 0x15661a6
+func_addr = 0x1566020
+comment = "_QWORD"
+decompiled = false
+
+[0x15661a9]
+last_change = 2026-09-10T18:39:18.746435Z
+addr = 0x15661a9
+func_addr = 0x1566020
+comment = "_QWORD"
+decompiled = false
+
+[0x15661b0]
+last_change = 2026-09-10T18:39:18.746451Z
+addr = 0x15661b0
+func_addr = 0x1566020
+comment = "_QWORD"
+decompiled = false
+
+[0x15661bc]
+last_change = 2026-09-10T18:39:18.746467Z
+addr = 0x15661bc
+func_addr = 0x1566020
+comment = "_QWORD"
+decompiled = false
+
+[0x15665f8]
+last_change = 2026-09-10T18:39:18.746622Z
+addr = 0x15665f8
+func_addr = 0x1566020
+comment = "_QWORD"
+decompiled = false
+
+[0x15665fb]
+last_change = 2026-09-10T18:39:18.746638Z
+addr = 0x15665fb
+func_addr = 0x1566020
+comment = "_QWORD"
+decompiled = false
+
+[0x1588014]
+last_change = 2026-09-10T18:39:19.104802Z
+addr = 0x1588014
+func_addr = 0x1587d40
+comment = "0xC0 = 192LL = CCSPlayer_ItemServices_GiveNamedItem"
+decompiled = false
+
+[0x1588005]
+last_change = 2026-09-10T18:39:19.109798Z
+addr = 0x1588005
+func_addr = 0x1587d40
+comment = "0xC0 = 192LL = CCSPlayer_ItemServices_GiveNamedItem"
+decompiled = true
+
+[0x15b319e]
+last_change = 2026-09-10T18:39:19.211159Z
+addr = 0x15b319e
+func_addr = 0x15b30f0
+comment = "0xE8 = 232LL = CCSPlayer_WeaponServices_DropWeapon"
+decompiled = true
+
+[0x15d1e76]
+last_change = 2026-09-10T18:39:19.500876Z
+addr = 0x15d1e76
+func_addr = 0x15d1e00
+comment = "0x1A0 = 416LL = CBaseEntity_SetOwner"
+decompiled = true
+
+[0x15d20f8]
+last_change = 2026-09-10T18:39:19.537557Z
+addr = 0x15d20f8
+func_addr = 0x15d2070
+comment = "_QWORD"
+decompiled = false
+
+[0x15d21e9]
+last_change = 2026-09-10T18:39:19.537633Z
+addr = 0x15d21e9
+func_addr = 0x15d2070
+comment = "0xE0 = 224LL = CCSPlayer_WeaponServices_CanUse"
+decompiled = false
+
+[0x15d21ef]
+last_change = 2026-09-10T18:39:19.542769Z
+addr = 0x15d21ef
+func_addr = 0x15d2070
+comment = "0xE0 = 224LL = CCSPlayer_WeaponServices_CanUse"
+decompiled = true
+
+[0x16038db]
+last_change = 2026-09-10T18:39:19.719173Z
+addr = 0x16038db
+func_addr = 0x1603890
+comment = "0x7F8 = 2040LL = CBasePlayerPawn_OnTakeDamage_Dying"
+decompiled = true
+
+[0x1603900]
+last_change = 2026-09-10T18:39:19.719250Z
+addr = 0x1603900
+func_addr = 0x1603890
+comment = "0x808 = 2056LL = CBasePlayerPawn_OnTakeDamage_Dead"
+decompiled = true
+
+[0x1603930]
+last_change = 2026-09-10T18:39:19.719270Z
+addr = 0x1603930
+func_addr = 0x1603890
+comment = "0x7E8 = 2024LL = CBasePlayerPawn_OnTakeDamage_Alive"
+decompiled = true
+
+[0x160b321]
+last_change = 2026-09-10T18:39:19.755757Z
+addr = 0x160b321
+func_addr = 0x160b320
+comment = "0x528 = 1320LL = CBaseAnimGraph::m_skeletonInstance"
+decompiled = false
+
+[0x160b32e]
+last_change = 2026-09-10T18:39:19.755828Z
+addr = 0x160b32e
+func_addr = 0x160b320
+comment = "0x70 = 112LL = CGameSceneNode_GetSkeletonInstance"
+decompiled = true
+
+[0x160b336]
+last_change = 2026-09-10T18:39:19.755847Z
+addr = 0x160b336
+func_addr = 0x160b320
+comment = "0x3D0 = 976LL = CSkeletonInstance::m_animationController"
+decompiled = true
+
+[0x161640c]
+last_change = 2026-09-10T18:39:20.229789Z
+addr = 0x161640c
+func_addr = 0x16163e0
+comment = "0x1B8 = 440LL = INetworkGameServer_GetClientConnectionType"
+decompiled = true
+
+[0x165c438]
+last_change = 2026-09-10T18:39:20.624195Z
+addr = 0x165c438
+func_addr = 0x165c300
+comment = "0x278 = 632LL = IVEngineServer2_GetAchievementMgr"
+decompiled = true
+
+[0x16b957a]
+last_change = 2026-09-10T18:39:20.912081Z
+addr = 0x16b957a
+func_addr = 0x16b9500
+comment = "0x8 = 8LL = CEntitySystem::m_pCurrentManifest"
+decompiled = true
+
+[0x16bda32]
+last_change = 2026-09-10T18:39:20.947876Z
+addr = 0x16bda32
+func_addr = 0x16bda10
+comment = "0x20A0 = 8352LL = CGameEntitySystem::m_iNetworkedEntCount"
+decompiled = true
+
+[0x16bda3e]
+last_change = 2026-09-10T18:39:20.947961Z
+addr = 0x16bda3e
+func_addr = 0x16bda10
+comment = "0x20D0 = 8400LL = CGameEntitySystem::m_entityListeners"
+decompiled = false
+
+[0x16bdaad]
+last_change = 2026-09-10T18:39:20.947984Z
+addr = 0x16bdaad
+func_addr = 0x16bda10
+comment = "0x20A4 = 8356LL = CGameEntitySystem::m_iNonNetworkedSavedEntCount"
+decompiled = true
+
+[0x16bda47]
+last_change = 2026-09-10T18:39:20.952995Z
+addr = 0x16bda47
+func_addr = 0x16bda10
+comment = "0x20D0 = 8400LL = CGameEntitySystem::m_entityListeners"
+decompiled = true
+
+[0x16db0d7]
+last_change = 2026-09-10T18:39:21.055066Z
+addr = 0x16db0d7
+func_addr = 0x16db050
+comment = "0xD8 = 216LL = CEntityInstance_ObjectCaps"
+decompiled = false
+
+[0x16db171]
+last_change = 2026-09-10T18:39:21.055185Z
+addr = 0x16db171
+func_addr = 0x16db050
+comment = "0xB0 = 176LL = CEntityInstance_Save"
+decompiled = true
+
+[0x16db0df]
+last_change = 2026-09-10T18:39:21.060055Z
+addr = 0x16db0df
+func_addr = 0x16db050
+comment = "0xD8 = 216LL = CEntityInstance_ObjectCaps"
+decompiled = true
+
+[0x16db531]
+last_change = 2026-09-10T18:39:21.090996Z
+addr = 0x16db531
+func_addr = 0x16db3e0
+comment = "0xE0 = 224LL = CEntityInstance_RequiredEdictIndex"
+decompiled = false
+
+[0x16db537]
+last_change = 2026-09-10T18:39:21.095908Z
+addr = 0x16db537
+func_addr = 0x16db3e0
+comment = "0xE0 = 224LL = CEntityInstance_RequiredEdictIndex"
+decompiled = true
+
+[0x16db660]
+last_change = 2026-09-10T18:39:21.126706Z
+addr = 0x16db660
+func_addr = 0x16db600
+comment = "0xC0 = 192LL = CEntityInstance_OnSave"
+decompiled = true
+
+[0x16db937]
+last_change = 2026-09-10T18:39:21.162357Z
+addr = 0x16db937
+func_addr = 0x16db800
+comment = "0xB8 = 184LL = CEntityInstance_Restore"
+decompiled = true
+
+[0x16dd5e9]
+last_change = 2026-09-10T18:39:21.269290Z
+addr = 0x16dd5e9
+func_addr = 0x16dd2c0
+comment = "_QWORD"
+decompiled = false
+
+[0x16dd5f0]
+last_change = 2026-09-10T18:39:21.269371Z
+addr = 0x16dd5f0
+func_addr = 0x16dd2c0
+comment = "_QWORD"
+decompiled = false
+
+[0x16ddb1f]
+last_change = 2026-09-10T18:39:21.269401Z
+addr = 0x16ddb1f
+func_addr = 0x16dd2c0
+comment = "_QWORD"
+decompiled = false
+
+[0x16ddb26]
+last_change = 2026-09-10T18:39:21.269422Z
+addr = 0x16ddb26
+func_addr = 0x16dd2c0
+comment = "_QWORD"
+decompiled = false
+
+[0x16e3952]
+last_change = 2026-09-10T18:39:21.553590Z
+addr = 0x16e3952
+func_addr = 0x16e3930
+comment = "0x28 = 40LL = CEntitySystem_BuildResourceManifestForEntity"
+decompiled = true
+
+[0x16ec3eb]
+last_change = 2026-09-10T18:39:21.801356Z
+addr = 0x16ec3eb
+func_addr = 0x16ec380
+comment = "0x78 = 120LL = CEntitySystem_OnEntityParentChanged"
+decompiled = false
+
+[0x16ec3fc]
+last_change = 2026-09-10T18:39:21.806286Z
+addr = 0x16ec3fc
+func_addr = 0x16ec380
+comment = "0x78 = 120LL = CEntitySystem_OnEntityParentChanged"
+decompiled = true
+
+[0x17316f7]
+last_change = 2026-09-10T18:39:22.051716Z
+addr = 0x17316f7
+func_addr = 0x17314c0
+comment = "0x28 = 40LL = CSaveRestoreBlockSet_PreRestore"
+decompiled = true
+
+[0x17319ff]
+last_change = 2026-09-10T18:39:22.051812Z
+addr = 0x17319ff
+func_addr = 0x17314c0
+comment = "0x40 = 64LL = CSaveRestoreBlockSet_PostRestore"
+decompiled = true
+
+[0x1738cff]
+last_change = 2026-09-10T18:39:22.123970Z
+addr = 0x1738cff
+func_addr = 0x1738c60
+comment = "0x20F0 = 8432LL = CGameEntitySystem::m_pEntity2Networkables"
+decompiled = true
+
+[0x1738d79]
+last_change = 2026-09-10T18:39:22.160029Z
+addr = 0x1738d79
+func_addr = 0x1738d20
+comment = "0xB90 = 2960LL = CEntitySystem::m_entityIONotifiers"
+decompiled = true
+
+[0x1738ddc]
+last_change = 2026-09-10T18:39:22.160116Z
+addr = 0x1738ddc
+func_addr = 0x1738d20
+comment = "0x20E8 = 8424LL = CGameEntitySystem::m_pEntity2SaveRestore"
+decompiled = true
+
+[0x1738f83]
+last_change = 2026-09-10T18:39:22.160141Z
+addr = 0x1738f83
+func_addr = 0x1738d20
+comment = "0x110 = 272LL = IGameResourceService_SetEntityResourceManifestHandler"
+decompiled = true
+
+[0x174b89a]
+last_change = 2026-09-10T18:39:22.668240Z
+addr = 0x174b89a
+func_addr = 0x174b880
+comment = "0x28 = 40LL = ILoopModeGameSharedState_IsBackgroundMap"
+decompiled = false
+
+[0x174b8cc]
+last_change = 2026-09-10T18:39:22.668346Z
+addr = 0x174b8cc
+func_addr = 0x174b880
+comment = "0xD8 = 216LL = INetworkGameServer_IsBackgroundMap"
+decompiled = false
+
+[0x174b8a9]
+last_change = 2026-09-10T18:39:22.673274Z
+addr = 0x174b8a9
+func_addr = 0x174b880
+comment = "0x28 = 40LL = ILoopModeGameSharedState_IsBackgroundMap"
+decompiled = true
+
+[0x174b8d3]
+last_change = 2026-09-10T18:39:22.673336Z
+addr = 0x174b8d3
+func_addr = 0x174b880
+comment = "0xD8 = 216LL = INetworkGameServer_IsBackgroundMap"
+decompiled = true
+
+[0x174c0a4]
+last_change = 2026-09-10T18:39:22.885608Z
+addr = 0x174c0a4
+func_addr = 0x174c020
+comment = "0x68 = 104LL = CEntitySystem_ClearEntityDatabase"
+decompiled = true
+
+[0x175508b]
+last_change = 2026-09-10T18:39:22.993797Z
+addr = 0x175508b
+func_addr = 0x1755070
+comment = "0xE8 = 232LL = IEngineServiceMgr_GetEventDispatcher"
+decompiled = false
+
+[0x1755091]
+last_change = 2026-09-10T18:39:22.998688Z
+addr = 0x1755091
+func_addr = 0x1755070
+comment = "0xE8 = 232LL = IEngineServiceMgr_GetEventDispatcher"
+decompiled = true
+
+[0x175e61d]
+last_change = 2026-09-10T18:39:23.134753Z
+addr = 0x175e61d
+func_addr = 0x175dc50
+comment = "0x108 = 264LL = INetworkServerService_SetFinalSimulationTickThisFrame"
+decompiled = false
+
+[0x175ecad]
+last_change = 2026-09-10T18:39:23.134853Z
+addr = 0x175ecad
+func_addr = 0x175dc50
+comment = "0xE0 = 224LL = INetworkServerService_SetGameSpawnGroupMgr"
+decompiled = true
+
+[0x175eccd]
+last_change = 2026-09-10T18:39:23.134881Z
+addr = 0x175eccd
+func_addr = 0x175dc50
+comment = "0x1E0 = 480LL = CEngineServer_UnloadSpawnGroup"
+decompiled = false
+
+[0x175ed46]
+last_change = 2026-09-10T18:39:23.134906Z
+addr = 0x175ed46
+func_addr = 0x175dc50
+comment = "0xE8 = 232LL = INetworkServerService_AddServerPrerequisites"
+decompiled = true
+
+[0x175e628]
+last_change = 2026-09-10T18:39:23.139778Z
+addr = 0x175e628
+func_addr = 0x175dc50
+comment = "0x108 = 264LL = INetworkServerService_SetFinalSimulationTickThisFrame"
+decompiled = true
+
+[0x175ecd3]
+last_change = 2026-09-10T18:39:23.139850Z
+addr = 0x175ecd3
+func_addr = 0x175dc50
+comment = "0x1E0 = 480LL = CEngineServer_UnloadSpawnGroup"
+decompiled = true
+
+[0x1783df5]
+last_change = 2026-09-10T18:39:23.453497Z
+addr = 0x1783df5
+func_addr = 0x1783c80
+comment = "0x168 = 360LL = CCSPlayer_MovementServices_CheckMovingGround"
+decompiled = true
+
+[0x17bf53b]
+last_change = 2026-09-10T18:39:23.559690Z
+addr = 0x17bf53b
+func_addr = 0x17bf520
+comment = "0x548 = 1352LL = CBaseEntity_IsPlayerController"
+decompiled = true
+
+[0x17bf54b]
+last_change = 2026-09-10T18:39:23.559796Z
+addr = 0x17bf54b
+func_addr = 0x17bf520
+comment = "0x540 = 1344LL = CBaseEntity_IsPlayerPawn"
+decompiled = true
+
+[0x17f4322]
+last_change = 2026-09-10T18:39:23.808381Z
+addr = 0x17f4322
+func_addr = 0x17f4310
+comment = "0xD8 = 216LL = CCSPlayer_ItemServices_DropActivePlayerWeapon"
+decompiled = true
+
+[0x18008ce]
+last_change = 2026-09-10T18:39:23.985966Z
+addr = 0x18008ce
+func_addr = 0x1800850
+comment = "0xD8 = 216LL = CGameRules_FindPickerEntity"
+decompiled = true
+
+[0x180727c]
+last_change = 2026-09-10T18:39:24.021524Z
+addr = 0x180727c
+func_addr = 0x18071c0
+comment = "0xC8 = 200LL = CCSPlayer_ItemServices_GiveNamedItemBool"
+decompiled = true
+
+[0x18261f2]
+last_change = 2026-09-10T18:39:25.053533Z
+addr = 0x18261f2
+func_addr = 0x1825f30
+comment = "_QWORD"
+decompiled = false
+
+[0x18262ce]
+last_change = 2026-09-10T18:39:25.053649Z
+addr = 0x18262ce
+func_addr = 0x1825f30
+comment = "_QWORD"
+decompiled = false
+
+[0x1838865]
+last_change = 2026-09-10T18:39:25.125895Z
+addr = 0x1838865
+func_addr = 0x1838630
+comment = "0x9F8 = 2552LL = CBasePlayerPawn_DropActivePlayerWeapon"
+decompiled = true
+
+[0x1859d01]
+last_change = 2026-09-10T18:39:25.452328Z
+addr = 0x1859d01
+func_addr = 0x1859c40
+comment = "0x380 = 896LL = CBaseEntity_GetHammerUniqueId"
+decompiled = false
+
+[0x1859d09]
+last_change = 2026-09-10T18:39:25.457292Z
+addr = 0x1859d09
+func_addr = 0x1859c40
+comment = "0x380 = 896LL = CBaseEntity_GetHammerUniqueId"
+decompiled = true
+
+[0x1906bb4]
+last_change = 2026-09-10T18:39:25.669960Z
+addr = 0x1906bb4
+func_addr = 0x1906b10
+comment = "_QWORD"
+decompiled = false
+
+[0x190c8fa]
+last_change = 2026-09-10T18:39:26.497993Z
+addr = 0x190c8fa
+func_addr = 0x190c840
+comment = "0x258 = 600LL = IVEngineServer2_GetServerGlobals"
+decompiled = true
+
+[0x191760f]
+last_change = 2026-09-10T18:39:26.852827Z
+addr = 0x191760f
+func_addr = 0x1917560
+comment = "0x1B8 = 440LL = IVEngineServer2_IsLogEnabled"
+decompiled = true
+
+[0x191f7dc]
+last_change = 2026-09-10T18:39:27.066260Z
+addr = 0x191f7dc
+func_addr = 0x191f3e0
+comment = "_QWORD"
+decompiled = false
+
+[0x191f7f8]
+last_change = 2026-09-10T18:39:27.066389Z
+addr = 0x191f7f8
+func_addr = 0x191f3e0
+comment = "_QWORD"
+decompiled = false
+
+[0x192acab]
+last_change = 2026-09-10T18:39:27.137709Z
+addr = 0x192acab
+func_addr = 0x192ab20
+comment = "0x240 = 576LL = CCheckTransmitInfo::m_nPlayerSlot"
+decompiled = false
+
+[0x192ae1f]
+last_change = 2026-09-10T18:39:27.137841Z
+addr = 0x192ae1f
+func_addr = 0x192ab20
+comment = "0x244 = 580LL = CCheckTransmitInfo::m_bFullUpdate"
+decompiled = true
+
+[0x192acbf]
+last_change = 2026-09-10T18:39:27.142520Z
+addr = 0x192acbf
+func_addr = 0x192ab20
+comment = "0x240 = 576LL = CCheckTransmitInfo::m_nPlayerSlot"
+decompiled = true
+
+[0x197db48]
+last_change = 2026-09-10T18:39:27.316473Z
+addr = 0x197db48
+func_addr = 0x197dad0
+comment = "0x168 = 360LL = IVEngineServer2_ServerCommand"
+decompiled = true
+
+[0x197db54]
+last_change = 2026-09-10T18:39:27.316608Z
+addr = 0x197db54
+func_addr = 0x197dad0
+comment = "0x110 = 272LL = IVEngineServer2_IsDedicatedServer"
+decompiled = true
+
+[0x198f898]
+last_change = 2026-09-10T18:39:27.423815Z
+addr = 0x198f898
+func_addr = 0x198f820
+comment = "0x498 = 1176LL = CBaseEntity_StartTouch"
+decompiled = true
+
+[0x198f8a8]
+last_change = 2026-09-10T18:39:27.423941Z
+addr = 0x198f8a8
+func_addr = 0x198f820
+comment = "0x4A0 = 1184LL = CBaseEntity_Touch"
+decompiled = true
+
+[0x198f910]
+last_change = 2026-09-10T18:39:27.459409Z
+addr = 0x198f910
+func_addr = 0x198f900
+comment = "0x4A8 = 1192LL = CBaseEntity_EndTouch"
+decompiled = true
+
+[0x19cb7ba]
+last_change = 2026-09-10T18:39:27.601475Z
+addr = 0x19cb7ba
+func_addr = 0x19cb6f0
+comment = "0x5C8 = 1480LL = CBaseEntity_CollisionRulesChanged"
+decompiled = true
+
+[0x19d3a19]
+last_change = 2026-09-10T18:39:27.743058Z
+addr = 0x19d3a19
+func_addr = 0x19d39b0
+comment = "0x148 = 328LL = IVEngineServer2_GetPlayerNetInfo"
+decompiled = true
+
+[0x19dd660]
+last_change = 2026-09-10T18:39:27.814081Z
+addr = 0x19dd660
+func_addr = 0x19dd4c0
+comment = "0x510 = 1296LL = CBaseEntity_Teleport"
+decompiled = true
+
+[0x1a05ac4]
+last_change = 2026-09-10T18:39:27.849725Z
+addr = 0x1a05ac4
+func_addr = 0x1a05700
+comment = "_QWORD"
+decompiled = false
+
+[0x1a05acf]
+last_change = 2026-09-10T18:39:27.849854Z
+addr = 0x1a05acf
+func_addr = 0x1a05700
+comment = "_QWORD"
+decompiled = false
+
+[0x1a05ad2]
+last_change = 2026-09-10T18:39:27.849894Z
+addr = 0x1a05ad2
+func_addr = 0x1a05700
+comment = "_QWORD"
+decompiled = false
+
+[0x2072d13]
+last_change = 2026-09-10T18:39:28.311077Z
+addr = 0x2072d13
+func_addr = 0x2072ce0
+comment = "0x70 = 112LL = IEngineServiceMgr_UnregisterLoopMode"
+decompiled = true
+
+[0x2072dff]
+last_change = 2026-09-10T18:39:28.346590Z
+addr = 0x2072dff
+func_addr = 0x2072dd0
+comment = "0x60 = 96LL = IEngineServiceMgr_UnregisterEngineService"
+decompiled = true
+
+[0x213c643]
+last_change = 2026-09-10T18:39:28.417487Z
+addr = 0x213c643
+func_addr = 0x213c5d0
+comment = "0x90 = 144LL = CEntityInstance_ScriptAcceptInput"
+decompiled = true
+
+[0x213d48d]
+last_change = 2026-09-10T18:39:28.488287Z
+addr = 0x213d48d
+func_addr = 0x213d430
+comment = "0x88 = 136LL = CEntityInstance_ScriptEntityIO"
+decompiled = true
+
+[0x213e0fe]
+last_change = 2026-09-10T18:39:28.629575Z
+addr = 0x213e0fe
+func_addr = 0x213e0f0
+comment = "0x10 = 16LL = CEntityInstance::m_pEntity"
+decompiled = true
+
+[0x213e122]
+last_change = 2026-09-10T18:39:28.629721Z
+addr = 0x213e122
+func_addr = 0x213e0f0
+comment = "0x18 = 24LL = CEntityInstance::m_hPrivateScope"
+decompiled = false
+
+[0x213e133]
+last_change = 2026-09-10T18:39:28.632844Z
+addr = 0x213e133
+func_addr = 0x213e0f0
+comment = "0x18 = 24LL = CEntityInstance::m_hPrivateScope"
+decompiled = true
+
+[0x213e3a2]
+last_change = 2026-09-10T18:39:28.700729Z
+addr = 0x213e3a2
+func_addr = 0x213e2b0
+comment = "0x20 = 32LL = CEntityInstance::m_pKeyValues"
+decompiled = true
+
+[0x213f500]
+last_change = 2026-09-10T18:39:28.771692Z
+addr = 0x213f500
+func_addr = 0x213f500
+comment = "0x8 = 8LL = CEntityInstance::m_iszPrivateVScripts"
+decompiled = false
+
+[0x21451b8]
+last_change = 2026-09-10T18:39:28.877889Z
+addr = 0x21451b8
+func_addr = 0x2145170
+comment = "0xBD0 = 3024LL = CEntitySystem::m_nEntityKeyValuesAllocatorRefCount"
+decompiled = true
+
+[0x2146adb]
+last_change = 2026-09-10T18:39:29.055967Z
+addr = 0x2146adb
+func_addr = 0x2146ac0
+comment = "0x108 = 264LL = INetworkMessages_RegisterSchemaTypeOverride"
+decompiled = false
+
+[0x2146cef]
+last_change = 2026-09-10T18:39:29.128093Z
+addr = 0x2146cef
+func_addr = 0x2146cd0
+comment = "0xBD4 = 3028LL = CEntitySystem::m_flChangeCallbackSpewThreshold"
+decompiled = false
+
+[0x2146d18]
+last_change = 2026-09-10T18:39:29.128235Z
+addr = 0x2146d18
+func_addr = 0x2146cd0
+comment = "0x68 = 104LL = CEntityInstance_PostDataUpdatePreserve"
+decompiled = true
+
+[0x2146d3f]
+last_change = 2026-09-10T18:39:29.128279Z
+addr = 0x2146d3f
+func_addr = 0x2146cd0
+comment = "0x58 = 88LL = CEntityInstance_PostDataUpdateDelta"
+decompiled = true
+
+[0x2146cfd]
+last_change = 2026-09-10T18:39:29.131456Z
+addr = 0x2146cfd
+func_addr = 0x2146cd0
+comment = "0xBD4 = 3028LL = CEntitySystem::m_flChangeCallbackSpewThreshold"
+decompiled = true
+
+[0x21471bc]
+last_change = 2026-09-10T18:39:29.236458Z
+addr = 0x21471bc
+func_addr = 0x2147190
+comment = "0x38 = 56LL = CEntityInstance_Disconnect"
+decompiled = true
+
+[0x214720f]
+last_change = 2026-09-10T18:39:29.236599Z
+addr = 0x214720f
+func_addr = 0x2147190
+comment = "0x28 = 40LL = CEntityComponentHelperT_Free"
+decompiled = true
+
+[0x214f1e4]
+last_change = 2026-09-10T18:39:29.488436Z
+addr = 0x214f1e4
+func_addr = 0x214efe0
+comment = "0xB0 = 176LL = CEntitySystem_PostDataUpdate"
+decompiled = true
+
+[0x214f228]
+last_change = 2026-09-10T18:39:29.488585Z
+addr = 0x214f228
+func_addr = 0x214efe0
+comment = "0xA8 = 168LL = CEntitySystem_Activate"
+decompiled = true
+
+[0x214fd08]
+last_change = 2026-09-10T18:39:29.523793Z
+addr = 0x214fd08
+func_addr = 0x214fcf0
+comment = "0x1F50 = 8016LL = CEntitySystem::m_vSpawnOriginOffset"
+decompiled = true
+
+[0x214fd18]
+last_change = 2026-09-10T18:39:29.559009Z
+addr = 0x214fd18
+func_addr = 0x214fd10
+comment = "0x1F80 = 8064LL = CEntitySystem::m_Accessors"
+decompiled = false
+
+[0x214fd28]
+last_change = 2026-09-10T18:39:29.562160Z
+addr = 0x214fd28
+func_addr = 0x214fd10
+comment = "0x1F80 = 8064LL = CEntitySystem::m_Accessors"
+decompiled = true
+
+[0x215051b]
+last_change = 2026-09-10T18:39:29.594455Z
+addr = 0x215051b
+func_addr = 0x2150510
+comment = "0xB10 = 2832LL = CEntitySystem::m_EventQueue"
+decompiled = true
+
+[0x21526d8]
+last_change = 2026-09-10T18:39:29.700513Z
+addr = 0x21526d8
+func_addr = 0x21526d0
+comment = "0xAD0 = 2768LL = CEntitySystem::m_entityComponentHelpers"
+decompiled = false
+
+[0x21526e6]
+last_change = 2026-09-10T18:39:29.703647Z
+addr = 0x21526e6
+func_addr = 0x21526d0
+comment = "0xAD0 = 2768LL = CEntitySystem::m_entityComponentHelpers"
+decompiled = true
+
+[0x215330f]
+last_change = 2026-09-10T18:39:29.736079Z
+addr = 0x215330f
+func_addr = 0x2152ec0
+comment = "0x98 = 152LL = CEntitySystem_SortEntities"
+decompiled = true
+
+[0x2155143]
+last_change = 2026-09-10T18:39:29.771661Z
+addr = 0x2155143
+func_addr = 0x2154ee0
+comment = "0xB8 = 184LL = CEntitySystem_OnSetDormant"
+decompiled = true
+
+[0x2155274]
+last_change = 2026-09-10T18:39:29.807236Z
+addr = 0x2155274
+func_addr = 0x2155260
+comment = "0xC58 = 3160LL = CEntitySystem::m_queuedDormancyChanges"
+decompiled = true
+
+[0x2155530]
+last_change = 2026-09-10T18:39:29.842650Z
+addr = 0x2155530
+func_addr = 0x2155530
+comment = "0xBB8 = 3000LL = CEntitySystem::m_nSuppressDormancyChangeCount"
+decompiled = false
+
+[0x2155553]
+last_change = 2026-09-10T18:39:29.842788Z
+addr = 0x2155553
+func_addr = 0x2155530
+comment = "0xBC0 = 3008LL = CEntitySystem::m_nExecuteQueuedCreationDepth"
+decompiled = true
+
+[0x2158912]
+last_change = 2026-09-10T18:39:29.984476Z
+addr = 0x2158912
+func_addr = 0x2158900
+comment = "0xCA0 = 3232LL = CEntitySystem::m_DataDescKeyUnserializers"
+decompiled = true
+
+[0x215928a]
+last_change = 2026-09-10T18:39:30.020303Z
+addr = 0x215928a
+func_addr = 0x2159280
+comment = "0x2080 = 8320LL = CEntitySystem::m_EntityMaterialAttributes"
+decompiled = true
+
+[0x215a086]
+last_change = 2026-09-10T18:39:30.055899Z
+addr = 0x215a086
+func_addr = 0x2159cd0
+comment = "0xAF8 = 2808LL = CEntitySystem::m_entityNames"
+decompiled = false
+
+[0x215a08e]
+last_change = 2026-09-10T18:39:30.059116Z
+addr = 0x215a08e
+func_addr = 0x2159cd0
+comment = "0xAF8 = 2808LL = CEntitySystem::m_entityNames"
+decompiled = true
+
+[0x215b102]
+last_change = 2026-09-10T18:39:30.126814Z
+addr = 0x215b102
+func_addr = 0x215b0e0
+comment = "0x88 = 136LL = CEntitySystem_OnRemoveEntity"
+decompiled = true
+
+[0x215b19e]
+last_change = 2026-09-10T18:39:30.162202Z
+addr = 0x215b19e
+func_addr = 0x215b180
+comment = "0xBC4 = 3012LL = CEntitySystem::m_nExecuteQueuedDeletionDepth"
+decompiled = true
+
+[0x215c0d5]
+last_change = 2026-09-10T18:39:30.232955Z
+addr = 0x215c0d5
+func_addr = 0x215c0a0
+comment = "0xBC8 = 3016LL = CEntitySystem::m_nSuppressDestroyImmediateCount"
+decompiled = false
+
+[0x215c0e3]
+last_change = 2026-09-10T18:39:30.233106Z
+addr = 0x215c0e3
+func_addr = 0x215c0a0
+comment = "0xBCC = 3020LL = CEntitySystem::m_nSuppressAutoDeletionExecutionCount"
+decompiled = true
+
+[0x215c11b]
+last_change = 2026-09-10T18:39:30.233156Z
+addr = 0x215c11b
+func_addr = 0x215c0a0
+comment = "0xC0 = 192LL = CEntitySystem_UpdateOnRemove"
+decompiled = true
+
+[0x215c1df]
+last_change = 2026-09-10T18:39:30.233197Z
+addr = 0x215c1df
+func_addr = 0x215c0a0
+comment = "0xBDB = 3035LL = CEntitySystem::m_bEnableAutoDeletionExecution"
+decompiled = false
+
+[0x215c0dd]
+last_change = 2026-09-10T18:39:30.236317Z
+addr = 0x215c0dd
+func_addr = 0x215c0a0
+comment = "0xBC8 = 3016LL = CEntitySystem::m_nSuppressDestroyImmediateCount"
+decompiled = true
+
+[0x215c258]
+last_change = 2026-09-10T18:39:30.236387Z
+addr = 0x215c258
+func_addr = 0x215c0a0
+comment = "0xBDB = 3035LL = CEntitySystem::m_bEnableAutoDeletionExecution"
+decompiled = true
+
+[0x215db96]
+last_change = 2026-09-10T18:39:30.339354Z
+addr = 0x215db96
+func_addr = 0x215db80
+comment = "0xA90 = 2704LL = CEntitySystem::m_entClassesByCPPClassname"
+decompiled = false
+
+[0x215dbf2]
+last_change = 2026-09-10T18:39:30.339519Z
+addr = 0x215dbf2
+func_addr = 0x215db80
+comment = "0xAB0 = 2736LL = CEntitySystem::m_entClassesByClassname"
+decompiled = false
+
+[0x215dc04]
+last_change = 2026-09-10T18:39:30.342638Z
+addr = 0x215dc04
+func_addr = 0x215db80
+comment = "0xAB0 = 2736LL = CEntitySystem::m_entClassesByClassname"
+decompiled = true
+
+[0x215dc64]
+last_change = 2026-09-10T18:39:30.342710Z
+addr = 0x215dc64
+func_addr = 0x215db80
+comment = "0xA90 = 2704LL = CEntitySystem::m_entClassesByCPPClassname"
+decompiled = true
+
+[0x21607a6]
+last_change = 2026-09-10T18:39:30.480733Z
+addr = 0x21607a6
+func_addr = 0x21606b0
+comment = "0x1F40 = 8000LL = CEntitySystem::m_hActiveSpawnGroup"
+decompiled = true
+
+[0x21607c2]
+last_change = 2026-09-10T18:39:30.480885Z
+addr = 0x21607c2
+func_addr = 0x21606b0
+comment = "0x90 = 144LL = CEntitySystem_GetSpawnGroupWorldId"
+decompiled = false
+
+[0x216084f]
+last_change = 2026-09-10T18:39:30.480931Z
+addr = 0x216084f
+func_addr = 0x21606b0
+comment = "0x10 = 16LL = CEntitySystem::m_EntityList"
+decompiled = false
+
+[0x21607b8]
+last_change = 2026-09-10T18:39:30.484056Z
+addr = 0x21607b8
+func_addr = 0x21606b0
+comment = "0x90 = 144LL = CEntitySystem_GetSpawnGroupWorldId"
+decompiled = true
+
+[0x216085b]
+last_change = 2026-09-10T18:39:30.484144Z
+addr = 0x216085b
+func_addr = 0x21606b0
+comment = "0x10 = 16LL = CEntitySystem::m_EntityList"
+decompiled = true
+
+[0x2169799]
+last_change = 2026-09-10T18:39:30.622579Z
+addr = 0x2169799
+func_addr = 0x2169780
+comment = "0xA88 = 2696LL = CEntitySystem::m_sEntSystemName"
+decompiled = false
+
+[0x21697b0]
+last_change = 2026-09-10T18:39:30.622743Z
+addr = 0x21697b0
+func_addr = 0x2169780
+comment = "0xBBC = 3004LL = CEntitySystem::m_eNetworkSerializationMode"
+decompiled = true
+
+[0x21697da]
+last_change = 2026-09-10T18:39:30.622794Z
+addr = 0x21697da
+func_addr = 0x2169780
+comment = "0xCC0 = 3264LL = CEntitySystem::m_ComponentUnserializerInfoAllocator"
+decompiled = false
+
+[0x21699b8]
+last_change = 2026-09-10T18:39:30.622836Z
+addr = 0x21699b8
+func_addr = 0x2169780
+comment = "0x1ED0 = 7888LL = CEntitySystem::m_Symbols"
+decompiled = false
+
+[0x21699bf]
+last_change = 2026-09-10T18:39:30.622884Z
+addr = 0x21699bf
+func_addr = 0x2169780
+comment = "0xA0 = 160LL = INetworkMessages_SetNetworkSerializationContextData\n0x1ED0 = 7888LL = CEntitySystem::m_Symbols"
+decompiled = true
+
+[0x2169b61]
+last_change = 2026-09-10T18:39:30.622926Z
+addr = 0x2169b61
+func_addr = 0x2169780
+comment = "0xC90 = 3216LL = CEntitySystem::m_pNetworkFieldScratchData"
+decompiled = true
+
+[0x2169c72]
+last_change = 2026-09-10T18:39:30.622965Z
+addr = 0x2169c72
+func_addr = 0x2169780
+comment = "0xC98 = 3224LL = CEntitySystem::m_pFieldChangeLimitSpew"
+decompiled = false
+
+[0x2169c86]
+last_change = 2026-09-10T18:39:30.623004Z
+addr = 0x2169c86
+func_addr = 0x2169780
+comment = "0x118 = 280LL = IFlattenedSerializers_CreateFieldChangedEventQueue\n0xC98 = 3224LL = CEntitySystem::m_pFieldChangeLimitSpew"
+decompiled = true
+
+[0x2169c8c]
+last_change = 2026-09-10T18:39:30.623043Z
+addr = 0x2169c8c
+func_addr = 0x2169780
+comment = "0xC88 = 3208LL = CEntitySystem::m_pNetworkFieldChangedEventQueue"
+decompiled = true
+
+[0x21697a4]
+last_change = 2026-09-10T18:39:30.626145Z
+addr = 0x21697a4
+func_addr = 0x2169780
+comment = "0xA88 = 2696LL = CEntitySystem::m_sEntSystemName"
+decompiled = true
+
+[0x21697e6]
+last_change = 2026-09-10T18:39:30.626222Z
+addr = 0x21697e6
+func_addr = 0x2169780
+comment = "0xCC0 = 3264LL = CEntitySystem::m_ComponentUnserializerInfoAllocator"
+decompiled = true
+
+[0x216a8fa]
+last_change = 2026-09-10T18:39:30.799818Z
+addr = 0x216a8fa
+func_addr = 0x216a870
+comment = "0x130 = 304LL = CEntityInstance_AssignChangeAccessorPathIds"
+decompiled = true
+
+[0x216aa3a]
+last_change = 2026-09-10T18:39:30.835295Z
+addr = 0x216aa3a
+func_addr = 0x216aa30
+comment = "0x100 = 256LL = CEntityInstance_NetworkUpdateState"
+decompiled = true

@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.740967Z
+last_change = 2026-09-10T18:39:02.341113Z
 addr = 0x16127b0
 size = 0x84
 name = "CBaseModelEntity_GetBoneTransform"
+type = "__m128i *"
 
 [header]
 name = "CBaseModelEntity_GetBoneTransform"
 addr = 0x16127b0
+type = "__m128i *"
 
 [header.args]

@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.741539Z
+last_change = 2026-09-10T18:39:02.342526Z
 addr = 0x2146dd0
 size = 0x122
 name = "CEntitySystem_UpdateOnRemove"
+type = "long long"
 
 [header]
 name = "CEntitySystem_UpdateOnRemove"
 addr = 0x2146dd0
+type = "long long"
 
 [header.args]

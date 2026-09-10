@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.740560Z
+last_change = 2026-09-10T18:39:02.340238Z
 addr = 0xc24830
 size = 0x25
 name = "CCSBot_MoveTo"
+type = "void *"
 
 [header]
 name = "CCSBot_MoveTo"
 addr = 0xc24830
+type = "void *"
 
 [header.args]

@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.740676Z
+last_change = 2026-09-10T18:39:02.340481Z
 addr = 0xf46100
 size = 0x64c
 name = "CSpawnGroupMgrGameSystem_SpawnGroupActuallyShutdown"
+type = "double"
 
 [header]
 name = "CSpawnGroupMgrGameSystem_SpawnGroupActuallyShutdown"
 addr = 0xf46100
+type = "double"
 
 [header.args]

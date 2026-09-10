@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.740543Z
+last_change = 2026-09-10T18:39:02.340200Z
 addr = 0xc13fc0
 size = 0xacc
 name = "CCSBot_ComputePath"
+type = "long long"
 
 [header]
 name = "CCSBot_ComputePath"
 addr = 0xc13fc0
+type = "long long"
 
 [header.args]

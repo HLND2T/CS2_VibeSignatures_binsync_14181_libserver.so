@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.740621Z
+last_change = 2026-09-10T18:39:14.861516Z
 addr = 0xd6f580
 size = 0x29a
 name = "CBaseTrigger_StartTouch"
+type = "long long"
 
 [header]
 name = "CBaseTrigger_StartTouch"
 addr = 0xd6f580
+type = "long long"
 
 [header.args]

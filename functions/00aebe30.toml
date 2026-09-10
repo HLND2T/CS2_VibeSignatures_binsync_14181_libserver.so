@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.740468Z
+last_change = 2026-09-10T18:39:12.902408Z
 addr = 0xaebe30
 size = 0x871
 name = "CCSPlayerPawn_Event_KilledOther"
+type = "short"
 
 [header]
 name = "CCSPlayerPawn_Event_KilledOther"
 addr = 0xaebe30
+type = "short"
 
 [header.args]

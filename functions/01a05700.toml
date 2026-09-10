@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.741465Z
+last_change = 2026-09-10T18:39:27.849894Z
 addr = 0x1a05700
 size = 0x2022
 name = "CPlayerCommandQueue_OnSimulateUserCommands"
+type = "long long"
 
 [header]
 name = "CPlayerCommandQueue_OnSimulateUserCommands"
 addr = 0x1a05700
+type = "long long"
 
 [header.args]

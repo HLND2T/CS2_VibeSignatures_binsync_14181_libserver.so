@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.741518Z
+last_change = 2026-09-10T18:39:02.342471Z
 addr = 0x213fc60
 size = 0x68
 name = "CEntityInstance_AcceptInput"
+type = "long long"
 
 [header]
 name = "CEntityInstance_AcceptInput"
 addr = 0x213fc60
+type = "long long"
 
 [header.args]

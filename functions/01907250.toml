@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.741348Z
+last_change = 2026-09-10T18:39:02.342055Z
 addr = 0x1907250
 size = 0x3d
 name = "CSource2Server_GetActiveWorldName"
+type = "const char *"
 
 [header]
 name = "CSource2Server_GetActiveWorldName"
 addr = 0x1907250
+type = "const char *"
 
 [header.args]

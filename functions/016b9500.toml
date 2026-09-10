@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.741030Z
+last_change = 2026-09-10T18:39:20.912081Z
 addr = 0x16b9500
 size = 0x11b
 name = "CGameEntitySystem_BuildResourceManifest_ManifestNameOrGroupName"
+type = "long long"
 
 [header]
 name = "CGameEntitySystem_BuildResourceManifest_ManifestNameOrGroupName"
 addr = 0x16b9500
+type = "long long"
 
 [header.args]

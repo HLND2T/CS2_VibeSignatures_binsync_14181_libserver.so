@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.741567Z
+last_change = 2026-09-10T18:39:29.736079Z
 addr = 0x2152ec0
 size = 0x678
 name = "CEntitySystem_HelperExecuteQueuedSpawn"
+type = "long long"
 
 [header]
 name = "CEntitySystem_HelperExecuteQueuedSpawn"
 addr = 0x2152ec0
+type = "long long"
 
 [header.args]

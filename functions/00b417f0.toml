@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.740516Z
+last_change = 2026-09-10T18:39:02.340130Z
 addr = 0xb417f0
 size = 0x2e8
 name = "ScriptBinding_CSPlayerPawn_DestroyWeapon"
+type = "long long"
 
 [header]
 name = "ScriptBinding_CSPlayerPawn_DestroyWeapon"
 addr = 0xb417f0
+type = "long long"
 
 [header.args]

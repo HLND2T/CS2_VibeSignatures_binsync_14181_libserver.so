@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.741325Z
+last_change = 2026-09-10T18:39:02.341998Z
 addr = 0x185f950
 size = 0x25
 name = "CEnvEntityIgniter_Precache"
+type = "long long"
 
 [header]
 name = "CEnvEntityIgniter_Precache"
 addr = 0x185f950
+type = "long long"
 
 [header.args]

@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:51.741571Z
+last_change = 2026-09-10T18:39:29.807236Z
 addr = 0x2155260
 size = 0x2ce
 name = "CEntitySystem_ExecuteQueuedSetInPVS"
+type = "void"
 
 [header]
 name = "CEntitySystem_ExecuteQueuedSetInPVS"
 addr = 0x2155260
+type = "void"
 
 [header.args]
