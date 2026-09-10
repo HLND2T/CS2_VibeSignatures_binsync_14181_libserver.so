@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.740384Z
+addr = 0xa319b0
+size = 0x1
+name = "IGameSystem_OnSpawnGroupUncache"
+
+[header]
+name = "IGameSystem_OnSpawnGroupUncache"
+addr = 0xa319b0
+
+[header.args]

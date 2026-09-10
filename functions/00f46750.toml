@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.740678Z
+addr = 0xf46750
+size = 0x2af
+name = "CSpawnGroupMgrGameSystem_SpawnGroupShutdown"
+
+[header]
+name = "CSpawnGroupMgrGameSystem_SpawnGroupShutdown"
+addr = 0xf46750
+
+[header.args]

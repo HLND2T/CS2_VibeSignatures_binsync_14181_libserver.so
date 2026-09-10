@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.741127Z
+addr = 0x1747ac0
+size = 0x4ae
+name = "CLoopModeGame_dtor"
+
+[header]
+name = "CLoopModeGame_dtor"
+addr = 0x1747ac0
+
+[header.args]

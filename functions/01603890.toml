@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.740956Z
+addr = 0x1603890
+size = 0x215
+name = "CBasePlayerPawn_OnTakeDamage"
+
+[header]
+name = "CBasePlayerPawn_OnTakeDamage"
+addr = 0x1603890
+
+[header.args]

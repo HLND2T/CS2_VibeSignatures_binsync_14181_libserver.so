@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.741432Z
+addr = 0x1963a70
+size = 0x6e
+name = "CMultiplayRules_ClientDisconnected"
+
+[header]
+name = "CMultiplayRules_ClientDisconnected"
+addr = 0x1963a70
+
+[header.args]

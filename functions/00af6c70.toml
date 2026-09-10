@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.740488Z
+addr = 0xaf6c70
+size = 0x457
+name = "CCSPlayerPawn_OnSwitchWeapons"
+
+[header]
+name = "CCSPlayerPawn_OnSwitchWeapons"
+addr = 0xaf6c70
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.741055Z
+addr = 0x16df340
+size = 0x1c9
+name = "CGameEntitySystem_Spawn"
+
+[header]
+name = "CGameEntitySystem_Spawn"
+addr = 0x16df340
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.741263Z
+addr = 0x1811800
+size = 0x58
+name = "CBaseEntity_ScriptGetMoveParent"
+
+[header]
+name = "CBaseEntity_ScriptGetMoveParent"
+addr = 0x1811800
+
+[header.args]

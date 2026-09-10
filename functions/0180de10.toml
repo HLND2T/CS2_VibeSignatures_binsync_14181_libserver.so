@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.741241Z
+addr = 0x180de10
+size = 0x18a
+name = "CBaseEntity_dtor"
+
+[header]
+name = "CBaseEntity_dtor"
+addr = 0x180de10
+
+[header.args]

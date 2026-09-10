@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.741467Z
+addr = 0x1a7a040
+size = 0x329
+name = "CScriptedSequence_SynchronizeSequence"
+
+[header]
+name = "CScriptedSequence_SynchronizeSequence"
+addr = 0x1a7a040
+
+[header.args]

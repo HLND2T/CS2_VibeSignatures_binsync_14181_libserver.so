@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.741535Z
+addr = 0x2146cd0
+size = 0x86
+name = "CEntitySystem_PostDataUpdate"
+
+[header]
+name = "CEntitySystem_PostDataUpdate"
+addr = 0x2146cd0
+
+[header.args]

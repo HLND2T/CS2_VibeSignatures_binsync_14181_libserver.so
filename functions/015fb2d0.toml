@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.740953Z
+addr = 0x15fb2d0
+size = 0x71
+name = "CBaseModelEntity_DamageDecal"
+
+[header]
+name = "CBaseModelEntity_DamageDecal"
+addr = 0x15fb2d0
+
+[header.args]

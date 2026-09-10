@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.741136Z
+addr = 0x174b880
+size = 0x64
+name = "IsBackgroundMap"
+
+[header]
+name = "IsBackgroundMap"
+addr = 0x174b880
+
+[header.args]

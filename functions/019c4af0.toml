@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.741449Z
+addr = 0x19c4af0
+size = 0x1b5
+name = "CPointTeleport_Activate"
+
+[header]
+name = "CPointTeleport_Activate"
+addr = 0x19c4af0
+
+[header.args]

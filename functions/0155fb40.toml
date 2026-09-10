@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.740866Z
+addr = 0x155fb40
+size = 0x5d
+name = "CCSPlayerController_SwitchTeam"
+
+[header]
+name = "CCSPlayerController_SwitchTeam"
+addr = 0x155fb40
+
+[header.args]

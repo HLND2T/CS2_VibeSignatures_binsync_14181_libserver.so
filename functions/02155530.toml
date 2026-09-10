@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.741573Z
+addr = 0x2155530
+size = 0x41
+name = "CEntitySystem_ForceSetInPVSCallsIntoQueue"
+
+[header]
+name = "CEntitySystem_ForceSetInPVSCallsIntoQueue"
+addr = 0x2155530
+
+[header.args]

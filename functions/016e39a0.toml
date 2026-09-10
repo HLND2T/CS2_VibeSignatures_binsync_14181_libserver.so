@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.741070Z
+addr = 0x16e39a0
+size = 0x21
+name = "UTIL_Remove"
+
+[header]
+name = "UTIL_Remove"
+addr = 0x16e39a0
+
+[header.args]

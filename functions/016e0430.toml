@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.741059Z
+addr = 0x16e0430
+size = 0x28
+name = "CGameEntitySystem_FindEntityByClassName"
+
+[header]
+name = "CGameEntitySystem_FindEntityByClassName"
+addr = 0x16e0430
+
+[header.args]

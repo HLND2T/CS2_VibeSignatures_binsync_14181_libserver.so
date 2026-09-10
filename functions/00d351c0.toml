@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.740581Z
+addr = 0xd351c0
+size = 0x666
+name = "CFlashbangProjectile_Detonate"
+
+[header]
+name = "CFlashbangProjectile_Detonate"
+addr = 0xd351c0
+
+[header.args]

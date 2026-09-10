@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.740817Z
+addr = 0x142b940
+size = 0x3d
+name = "SV_Kill_SmokeGrenade_CommandHandler"
+
+[header]
+name = "SV_Kill_SmokeGrenade_CommandHandler"
+addr = 0x142b940
+
+[header.args]

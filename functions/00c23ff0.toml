@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.740557Z
+addr = 0xc23ff0
+size = 0x1a
+name = "CCSBot_Idle"
+
+[header]
+name = "CCSBot_Idle"
+addr = 0xc23ff0
+
+[header.args]

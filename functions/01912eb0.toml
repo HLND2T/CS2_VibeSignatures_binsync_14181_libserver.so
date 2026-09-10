@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.741404Z
+addr = 0x1912eb0
+size = 0x31d
+name = "CSource2GameClients_ClientDisconnect"
+
+[header]
+name = "CSource2GameClients_ClientDisconnect"
+addr = 0x1912eb0
+
+[header.args]

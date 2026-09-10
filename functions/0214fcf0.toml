@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.741555Z
+addr = 0x214fcf0
+size = 0x20
+name = "CEntityKeyValuesAllocator_GetTempBuffer"
+
+[header]
+name = "CEntityKeyValuesAllocator_GetTempBuffer"
+addr = 0x214fcf0
+
+[header.args]

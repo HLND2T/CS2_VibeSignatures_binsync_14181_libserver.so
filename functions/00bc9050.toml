@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.740529Z
+addr = 0xbc9050
+size = 0x13f4
+name = "CEntitySpawner_CPlayerSprayDecal_Spawn"
+
+[header]
+name = "CEntitySpawner_CPlayerSprayDecal_Spawn"
+addr = 0xbc9050
+
+[header.args]

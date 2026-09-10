@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.741557Z
+addr = 0x214fd10
+size = 0x25
+name = "CEntitySystem_RegisterAccessor"
+
+[header]
+name = "CEntitySystem_RegisterAccessor"
+addr = 0x214fd10
+
+[header.args]

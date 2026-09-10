@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.741434Z
+addr = 0x197dad0
+size = 0x1ec
+name = "CMultiplayRules_ctor"
+
+[header]
+name = "CMultiplayRules_ctor"
+addr = 0x197dad0
+
+[header.args]

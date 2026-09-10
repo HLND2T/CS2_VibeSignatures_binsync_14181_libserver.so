@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.741138Z
+addr = 0x174b8f0
+size = 0x370
+name = "CLoopModeGame_ctor"
+
+[header]
+name = "CLoopModeGame_ctor"
+addr = 0x174b8f0
+
+[header.args]

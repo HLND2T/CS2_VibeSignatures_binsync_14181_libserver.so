@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.741613Z
+addr = 0x2169780
+size = 0x7f3
+name = "CEntitySystem_Init"
+
+[header]
+name = "CEntitySystem_Init"
+addr = 0x2169780
+
+[header.args]

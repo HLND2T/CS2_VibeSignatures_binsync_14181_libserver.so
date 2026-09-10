@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.741338Z
+addr = 0x1906c90
+size = 0xef
+name = "CSource2Server_WriteSignonMessages"
+
+[header]
+name = "CSource2Server_WriteSignonMessages"
+addr = 0x1906c90
+
+[header.args]

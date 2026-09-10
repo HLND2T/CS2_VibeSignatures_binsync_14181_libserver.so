@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.741057Z
+addr = 0x16df510
+size = 0x1e2
+name = "CGameEntitySystem_ctor"
+
+[header]
+name = "CGameEntitySystem_ctor"
+addr = 0x16df510
+
+[header.args]

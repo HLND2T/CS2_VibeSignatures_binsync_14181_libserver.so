@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.740390Z
+addr = 0xa319d0
+size = 0x1
+name = "IGameSystem_OnPostSpawnGroupLoad"
+
+[header]
+name = "IGameSystem_OnPostSpawnGroupLoad"
+addr = 0xa319d0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.741317Z
+addr = 0x18595e0
+size = 0x477
+name = "CBaseEntity_UpdateOnRemove"
+
+[header]
+name = "CBaseEntity_UpdateOnRemove"
+addr = 0x18595e0
+
+[header.args]

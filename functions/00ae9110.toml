@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.740465Z
+addr = 0xae9110
+size = 0x25e
+name = "CCSPlayerPawn_CreatePlayerPawnServices"
+
+[header]
+name = "CCSPlayerPawn_CreatePlayerPawnServices"
+addr = 0xae9110
+
+[header.args]

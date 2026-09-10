@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:56:11.757162Z
+addr = 0x16f9fd0
+size = 0x167e
+name = "CGameSceneNode_PostSpawnKeyValues"
+
+[header]
+name = "CGameSceneNode_PostSpawnKeyValues"
+addr = 0x16f9fd0
+
+[header.args]

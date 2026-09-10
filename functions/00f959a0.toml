@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.740706Z
+addr = 0xf959a0
+size = 0xf
+name = "CBaseEntity_ScriptGetSpawnGroupHandle"
+
+[header]
+name = "CBaseEntity_ScriptGetSpawnGroupHandle"
+addr = 0xf959a0
+
+[header.args]

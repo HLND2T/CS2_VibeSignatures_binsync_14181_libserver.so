@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.740548Z
+addr = 0xc15bf0
+size = 0x1aa9
+name = "CCSBot_UpdatePathMovement"
+
+[header]
+name = "CCSBot_UpdatePathMovement"
+addr = 0xc15bf0
+
+[header.args]

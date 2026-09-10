@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.741378Z
+addr = 0x190ad10
+size = 0xd1
+name = "CGameRulesGameSystem_OnGameShutdown"
+
+[header]
+name = "CGameRulesGameSystem_OnGameShutdown"
+addr = 0x190ad10
+
+[header.args]

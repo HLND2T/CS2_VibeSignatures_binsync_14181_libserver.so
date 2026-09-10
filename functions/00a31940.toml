@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.740362Z
+addr = 0xa31940
+size = 0x1
+name = "IGameSystem_OnBuildGameSessionManifest"
+
+[header]
+name = "IGameSystem_OnBuildGameSessionManifest"
+addr = 0xa31940
+
+[header.args]

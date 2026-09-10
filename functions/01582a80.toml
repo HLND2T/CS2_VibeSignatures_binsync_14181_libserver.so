@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.740914Z
+addr = 0x1582a80
+size = 0x5
+name = "j_CCSPlayer_UseServices_OnUseImpl"
+
+[header]
+name = "j_CCSPlayer_UseServices_OnUseImpl"
+addr = 0x1582a80
+
+[header.args]

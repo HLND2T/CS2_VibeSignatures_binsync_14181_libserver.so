@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.741544Z
+addr = 0x2147e10
+size = 0x8c
+name = "CEntitySystem_ReleaseKeyValues"
+
+[header]
+name = "CEntitySystem_ReleaseKeyValues"
+addr = 0x2147e10
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.740632Z
+addr = 0xed8780
+size = 0x471
+name = "CBodyGameSystem_SpawnDependencyIsland"
+
+[header]
+name = "CBodyGameSystem_SpawnDependencyIsland"
+addr = 0xed8780
+
+[header.args]

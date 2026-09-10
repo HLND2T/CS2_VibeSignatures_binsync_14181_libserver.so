@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.740940Z
+addr = 0x15cde70
+size = 0x2fb
+name = "CCSPlayer_WeaponServices_DropWeapon"
+
+[header]
+name = "CCSPlayer_WeaponServices_DropWeapon"
+addr = 0x15cde70
+
+[header.args]

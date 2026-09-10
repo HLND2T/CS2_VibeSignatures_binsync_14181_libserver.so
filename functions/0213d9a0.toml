@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.741505Z
+addr = 0x213d9a0
+size = 0x8
+name = "CEntityInstance_Disconnect"
+
+[header]
+name = "CEntityInstance_Disconnect"
+addr = 0x213d9a0
+
+[header.args]

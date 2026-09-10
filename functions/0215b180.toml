@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.741589Z
+addr = 0x215b180
+size = 0xc4a
+name = "CEntitySystem_ExecuteQueuedDeletion"
+
+[header]
+name = "CEntitySystem_ExecuteQueuedDeletion"
+addr = 0x215b180
+
+[header.args]

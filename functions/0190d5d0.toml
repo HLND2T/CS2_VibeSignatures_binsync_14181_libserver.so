@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.741388Z
+addr = 0x190d5d0
+size = 0xf1
+name = "CGameRulesGameSystem_OnGameInit"
+
+[header]
+name = "CGameRulesGameSystem_OnGameInit"
+addr = 0x190d5d0
+
+[header.args]

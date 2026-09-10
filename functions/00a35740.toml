@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.740447Z
+addr = 0xa35740
+size = 0x112
+name = "CBaseEntity_GetChangeAccessorPathInfo_2"
+
+[header]
+name = "CBaseEntity_GetChangeAccessorPathInfo_2"
+addr = 0xa35740
+
+[header.args]

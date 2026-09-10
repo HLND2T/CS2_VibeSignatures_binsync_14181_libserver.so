@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.740513Z
+addr = 0xb3b850
+size = 0x2bd
+name = "ScriptBinding_CBaseModelEntity_SetModel"
+
+[header]
+name = "ScriptBinding_CBaseModelEntity_SetModel"
+addr = 0xb3b850
+
+[header.args]

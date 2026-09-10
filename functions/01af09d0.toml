@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.741487Z
+addr = 0x1af09d0
+size = 0x665
+name = "UTIL_SayTextFilter2"
+
+[header]
+name = "UTIL_SayTextFilter2"
+addr = 0x1af09d0
+
+[header.args]

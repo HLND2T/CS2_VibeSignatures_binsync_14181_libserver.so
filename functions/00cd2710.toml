@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.740574Z
+addr = 0xcd2710
+size = 0x553
+name = "CChicken_Event_Killed"
+
+[header]
+name = "CChicken_Event_Killed"
+addr = 0xcd2710
+
+[header.args]

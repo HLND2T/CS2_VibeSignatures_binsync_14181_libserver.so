@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.740758Z
+addr = 0xf97d40
+size = 0xc
+name = "CBaseModelEntity_ScriptSetSize"
+
+[header]
+name = "CBaseModelEntity_ScriptSetSize"
+addr = 0xf97d40
+
+[header.args]

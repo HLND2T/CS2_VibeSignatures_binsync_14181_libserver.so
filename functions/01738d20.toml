@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.741106Z
+addr = 0x1738d20
+size = 0x440
+name = "CSource2EntitySystem_StaticInit"
+
+[header]
+name = "CSource2EntitySystem_StaticInit"
+addr = 0x1738d20
+
+[header.args]

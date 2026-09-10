@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.740449Z
+addr = 0xa3b5d0
+size = 0x9d
+name = "CBaseEntity_NetworkStateChanged"
+
+[header]
+name = "CBaseEntity_NetworkStateChanged"
+addr = 0xa3b5d0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.741017Z
+addr = 0x1669760
+size = 0x83
+name = "CBaseFilter_InputTestActivator"
+
+[header]
+name = "CBaseFilter_InputTestActivator"
+addr = 0x1669760
+
+[header.args]

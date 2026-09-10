@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.740722Z
+addr = 0xf97a80
+size = 0x5
+name = "CBaseEntity_ScriptAddEffects"
+
+[header]
+name = "CBaseEntity_ScriptAddEffects"
+addr = 0xf97a80
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.741104Z
+addr = 0x1738c60
+size = 0xbc
+name = "CEntity2NetworkClasses_ServerClass_InitEntity2NetworkClasses"
+
+[header]
+name = "CEntity2NetworkClasses_ServerClass_InitEntity2NetworkClasses"
+addr = 0x1738c60
+
+[header.args]

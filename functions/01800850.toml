@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.741236Z
+addr = 0x1800850
+size = 0x137
+name = "FireTarget_CommandHandler"
+
+[header]
+name = "FireTarget_CommandHandler"
+addr = 0x1800850
+
+[header.args]

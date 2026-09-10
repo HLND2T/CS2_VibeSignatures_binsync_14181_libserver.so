@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.741367Z
+addr = 0x19097b0
+size = 0xcb
+name = "CSource2Server_PreWorldUpdate"
+
+[header]
+name = "CSource2Server_PreWorldUpdate"
+addr = 0x19097b0
+
+[header.args]

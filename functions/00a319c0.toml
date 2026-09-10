@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.740387Z
+addr = 0xa319c0
+size = 0x1
+name = "IGameSystem_OnPreSpawnGroupLoad"
+
+[header]
+name = "IGameSystem_OnPreSpawnGroupLoad"
+addr = 0xa319c0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.741064Z
+addr = 0x16e2a00
+size = 0xbb7
+name = "CGameEntitySystem_SortEntities"
+
+[header]
+name = "CGameEntitySystem_SortEntities"
+addr = 0x16e2a00
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.741288Z
+addr = 0x1812580
+size = 0x134
+name = "CBaseEntity_ScriptEmitSoundParams"
+
+[header]
+name = "CBaseEntity_ScriptEmitSoundParams"
+addr = 0x1812580
+
+[header.args]

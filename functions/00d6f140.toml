@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.740619Z
+addr = 0xd6f140
+size = 0x35c
+name = "CBaseEntity_Script_SetContextThink"
+
+[header]
+name = "CBaseEntity_Script_SetContextThink"
+addr = 0xd6f140
+
+[header.args]

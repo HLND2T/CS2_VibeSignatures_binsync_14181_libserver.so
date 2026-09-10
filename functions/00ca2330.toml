@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.740568Z
+addr = 0xca2330
+size = 0x147a
+name = "HideState_OnUpdate"
+
+[header]
+name = "HideState_OnUpdate"
+addr = 0xca2330
+
+[header.args]

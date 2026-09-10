@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.740541Z
+addr = 0xc0d240
+size = 0xd8
+name = "BotAdd_CommandHandler"
+
+[header]
+name = "BotAdd_CommandHandler"
+addr = 0xc0d240
+
+[header.args]

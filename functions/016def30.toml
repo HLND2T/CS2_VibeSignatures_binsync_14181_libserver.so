@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.741053Z
+addr = 0x16def30
+size = 0x3fc
+name = "CGameEntitySystem_CheckGlobalState"
+
+[header]
+name = "CGameEntitySystem_CheckGlobalState"
+addr = 0x16def30
+
+[header.args]

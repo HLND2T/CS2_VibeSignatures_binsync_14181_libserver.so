@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.741191Z
+addr = 0x177b260
+size = 0x4bc
+name = "CPlayer_MovementServices_ForceButtonState"
+
+[header]
+name = "CPlayer_MovementServices_ForceButtonState"
+addr = 0x177b260
+
+[header.args]

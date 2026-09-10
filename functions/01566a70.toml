@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.740871Z
+addr = 0x1566a70
+size = 0xf
+name = "CCSPlayer_ItemServices_GiveNamedItem"
+
+[header]
+name = "CCSPlayer_ItemServices_GiveNamedItem"
+addr = 0x1566a70
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:56:21.011459Z
+addr = 0x216c620
+size = 0x4d2
+name = "CEntityIOOutput_FireOutputInternal"
+
+[header]
+name = "CEntityIOOutput_FireOutputInternal"
+addr = 0x216c620
+
+[header.args]

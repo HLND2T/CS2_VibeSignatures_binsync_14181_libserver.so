@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.740624Z
+addr = 0xd79700
+size = 0x111
+name = "CBaseEntity_Teleport"
+
+[header]
+name = "CBaseEntity_Teleport"
+addr = 0xd79700
+
+[header.args]

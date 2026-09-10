@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.741495Z
+addr = 0x213c0e0
+size = 0x39e
+name = "CEntityIdentity_SetEntityName"
+
+[header]
+name = "CEntityIdentity_SetEntityName"
+addr = 0x213c0e0
+
+[header.args]

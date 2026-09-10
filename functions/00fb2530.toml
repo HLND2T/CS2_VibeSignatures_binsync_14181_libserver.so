@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:51.740782Z
+addr = 0xfb2530
+size = 0x973
+name = "CBaseModelEntity_ScriptSetRenderColor"
+
+[header]
+name = "CBaseModelEntity_ScriptSetRenderColor"
+addr = 0xfb2530
+
+[header.args]
