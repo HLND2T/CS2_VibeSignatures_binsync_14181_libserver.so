@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:23.139850Z
+last_change = 2026-09-11T03:35:37.952437Z
 addr = 0x175dc50
 size = 0x16bd
 name = "CLoopModeGame_LoopInitInternal"
-type = "long long"
 
 [header]
 name = "CLoopModeGame_LoopInitInternal"
 addr = 0x175dc50
-type = "long long"
 
 [header.args]

@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:30.342710Z
+last_change = 2026-09-11T03:35:17.240448Z
 addr = 0x215db80
 size = 0x24a
 name = "CEntitySystem_RegisterEntityClass"
-type = "long long"
 
 [header]
 name = "CEntitySystem_RegisterEntityClass"
 addr = 0x215db80
-type = "long long"
 
 [header.args]

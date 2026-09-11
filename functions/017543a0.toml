@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.341617Z
+last_change = 2026-09-11T03:35:17.239322Z
 addr = 0x17543a0
 size = 0x2d7
 name = "CLoopModeGame_OnServerBeginAsyncPostTickWork"
-type = "long long (__fastcall *)()"
 
 [header]
 name = "CLoopModeGame_OnServerBeginAsyncPostTickWork"
 addr = 0x17543a0
-type = "long long (__fastcall *)()"
 
 [header.args]

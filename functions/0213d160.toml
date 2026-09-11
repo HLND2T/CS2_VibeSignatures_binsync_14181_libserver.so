@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.342422Z
+last_change = 2026-09-11T03:35:17.240182Z
 addr = 0x213d160
 size = 0xa6
 name = "CEntityIdentity_FreeAttributes"
-type = "void"
 
 [header]
 name = "CEntityIdentity_FreeAttributes"
 addr = 0x213d160
-type = "void"
 
 [header.args]

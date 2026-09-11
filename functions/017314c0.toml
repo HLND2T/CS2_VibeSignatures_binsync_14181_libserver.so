@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:22.051812Z
+last_change = 2026-09-11T03:35:17.239197Z
 addr = 0x17314c0
 size = 0xa4c
 name = "CEntity2SaveRestore_StreamEntitiesFromFile"
-type = "long long"
 
 [header]
 name = "CEntity2SaveRestore_StreamEntitiesFromFile"
 addr = 0x17314c0
-type = "long long"
 
 [header.args]

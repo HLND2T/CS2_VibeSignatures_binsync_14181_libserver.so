@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.341045Z
+last_change = 2026-09-11T03:35:17.238807Z
 addr = 0x15ca2e0
 size = 0x22e
 name = "CTakeDamageInfo_GetWeaponName"
-type = "const char *"
 
 [header]
 name = "CTakeDamageInfo_GetWeaponName"
 addr = 0x15ca2e0
-type = "const char *"
 
 [header.args]

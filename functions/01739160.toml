@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.341512Z
+last_change = 2026-09-11T03:35:17.239218Z
 addr = 0x1739160
 size = 0x10
 name = "CGameSystemReallocatingFactory_CSource2EntitySystem_Init"
-type = "long long"
 
 [header]
 name = "CGameSystemReallocatingFactory_CSource2EntitySystem_Init"
 addr = 0x1739160
-type = "long long"
 
 [header.args]

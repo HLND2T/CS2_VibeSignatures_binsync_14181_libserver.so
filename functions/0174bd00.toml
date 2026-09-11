@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.341596Z
+last_change = 2026-09-11T03:35:17.239302Z
 addr = 0x174bd00
 size = 0x6d
 name = "CLoopModeGame_SetWorldSession"
-type = "void"
 
 [header]
 name = "CLoopModeGame_SetWorldSession"
 addr = 0x174bd00
-type = "void"
 
 [header.args]

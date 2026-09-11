@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:24.021524Z
+last_change = 2026-09-11T03:35:17.239490Z
 addr = 0x18071c0
 size = 0x6d3
 name = "GiveCommand"
-type = "long long"
 
 [header]
 name = "GiveCommand"
 addr = 0x18071c0
-type = "long long"
 
 [header.args]

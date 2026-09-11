@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.340460Z
+last_change = 2026-09-11T03:35:17.238214Z
 addr = 0xf42650
 size = 0x492
-name = "CSpawnGroupMgrGameSystem_SpawnGroupInit"
-type = "long long"
+name = "CSpawnGroupMgrGameSystem_OnSpawnGroupPrecache"
 
 [header]
-name = "CSpawnGroupMgrGameSystem_SpawnGroupInit"
+name = "CSpawnGroupMgrGameSystem_OnSpawnGroupPrecache"
 addr = 0xf42650
-type = "long long"
 
 [header.args]

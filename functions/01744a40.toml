@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.341528Z
+last_change = 2026-09-11T03:35:17.239234Z
 addr = 0x1744a40
 size = 0x57
 name = "CLoopModeGame_AddViewsToSceneSystem"
-type = "long long"
 
 [header]
 name = "CLoopModeGame_AddViewsToSceneSystem"
 addr = 0x1744a40
-type = "long long"
 
 [header.args]

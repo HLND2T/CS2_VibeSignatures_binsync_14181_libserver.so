@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.340297Z
+last_change = 2026-09-11T03:35:17.238041Z
 addr = 0xd3ed90
 size = 0x11
 name = "CBaseTrigger_EndTouch"
-type = "long long"
 
 [header]
 name = "CBaseTrigger_EndTouch"
 addr = 0xd3ed90
-type = "long long"
 
 [header.args]

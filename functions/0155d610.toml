@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.340920Z
+last_change = 2026-09-11T03:35:17.238680Z
 addr = 0x155d610
 size = 0x137
 name = "CCSPlayerController_InitialSpawn"
-type = "long long"
 
 [header]
 name = "CCSPlayerController_InitialSpawn"
 addr = 0x155d610
-type = "long long"
 
 [header.args]

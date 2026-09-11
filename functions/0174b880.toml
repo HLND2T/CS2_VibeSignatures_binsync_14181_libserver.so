@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:22.673336Z
+last_change = 2026-09-11T03:35:17.239287Z
 addr = 0x174b880
 size = 0x64
 name = "IsBackgroundMap"
-type = "long long"
 
 [header]
 name = "IsBackgroundMap"
 addr = 0x174b880
-type = "long long"
 
 [header.args]

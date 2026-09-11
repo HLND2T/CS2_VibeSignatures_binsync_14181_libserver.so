@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.341432Z
+last_change = 2026-09-11T03:35:17.239136Z
 addr = 0x16e43c0
 size = 0x6
 name = "CGameEventManager_Shutdown"
-type = "long long"
 
 [header]
 name = "CGameEventManager_Shutdown"
 addr = 0x16e43c0
-type = "long long"
 
 [header.args]

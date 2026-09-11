@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.342718Z
+last_change = 2026-09-11T03:35:17.240497Z
 addr = 0x2169f90
 size = 0x88
 name = "CEntitySystem_CreateEntitySystem"
-type = "long long"
 
 [header]
 name = "CEntitySystem_CreateEntitySystem"
 addr = 0x2169f90
-type = "long long"
 
 [header.args]

@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.341003Z
+last_change = 2026-09-11T03:35:17.238766Z
 addr = 0x158cc90
 size = 0xd38
 name = "CCSPlayer_MovementServices_CheckJumpButton"
-type = "void"
 
 [header]
 name = "CCSPlayer_MovementServices_CheckJumpButton"
 addr = 0x158cc90
-type = "void"
 
 [header.args]

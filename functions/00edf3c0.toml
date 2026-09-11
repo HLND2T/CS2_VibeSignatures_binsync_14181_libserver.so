@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.340395Z
+last_change = 2026-09-11T03:35:17.238147Z
 addr = 0xedf3c0
 size = 0x259
 name = "GetCSWeaponDataFromKey"
-type = "long long"
 
 [header]
 name = "GetCSWeaponDataFromKey"
 addr = 0xedf3c0
-type = "long long"
 
 [header.args]

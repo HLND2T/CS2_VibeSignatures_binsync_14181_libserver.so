@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.341643Z
+last_change = 2026-09-11T03:35:17.239347Z
 addr = 0x175d8d0
 size = 0x79
 name = "DispatchParticleEffect2"
-type = "long long"
 
 [header]
 name = "DispatchParticleEffect2"
 addr = 0x175d8d0
-type = "long long"
 
 [header.args]

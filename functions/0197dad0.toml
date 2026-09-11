@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:27.316608Z
+last_change = 2026-09-11T03:35:17.240015Z
 addr = 0x197dad0
 size = 0x1ec
 name = "CMultiplayRules_ctor"
-type = "const char **"
 
 [header]
 name = "CMultiplayRules_ctor"
 addr = 0x197dad0
-type = "const char **"
 
 [header.args]

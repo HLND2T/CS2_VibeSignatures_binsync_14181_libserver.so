@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.342389Z
+last_change = 2026-09-11T03:35:17.240148Z
 addr = 0x1af0760
 size = 0x255
 name = "UTIL_SayTextFilter"
-type = "long long"
 
 [header]
 name = "UTIL_SayTextFilter"
 addr = 0x1af0760
-type = "long long"
 
 [header.args]

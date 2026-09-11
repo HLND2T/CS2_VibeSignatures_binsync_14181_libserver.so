@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.340144Z
+last_change = 2026-09-11T03:35:17.237853Z
 addr = 0xbaa6a0
 size = 0x8
 name = "CGameMoney_GetDataDescMap"
-type = "long long *"
 
 [header]
 name = "CGameMoney_GetDataDescMap"
 addr = 0xbaa6a0
-type = "long long *"
 
 [header.args]

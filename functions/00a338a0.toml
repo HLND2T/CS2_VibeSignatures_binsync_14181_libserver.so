@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.339982Z
+last_change = 2026-09-11T03:35:17.237666Z
 addr = 0xa338a0
 size = 0x1e
 name = "CBaseEntity_GetEyeAngles"
-type = "long long"
 
 [header]
 name = "CBaseEntity_GetEyeAngles"
 addr = 0xa338a0
-type = "long long"
 
 [header.args]

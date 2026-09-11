@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.341018Z
+last_change = 2026-09-11T03:35:17.238782Z
 addr = 0x15b3230
 size = 0x17b
 name = "CCSPlayer_ItemServices_RemoveWeapons"
-type = "long long"
 
 [header]
 name = "CCSPlayer_ItemServices_RemoveWeapons"
 addr = 0x15b3230
-type = "long long"
 
 [header.args]

@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.341071Z
+last_change = 2026-09-11T03:35:17.238834Z
 addr = 0x15f9f10
 size = 0x2c
 name = "CCSPlayerController_Disconnect"
-type = "void"
 
 [header]
 name = "CCSPlayerController_Disconnect"
 addr = 0x15f9f10
-type = "void"
 
 [header.args]

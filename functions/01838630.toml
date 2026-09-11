@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:25.125895Z
+last_change = 2026-09-11T03:35:17.239659Z
 addr = 0x1838630
 size = 0x65c
 name = "CBasePlayerPawn_Event_Killed"
-type = "long long"
 
 [header]
 name = "CBasePlayerPawn_Event_Killed"
 addr = 0x1838630
-type = "long long"
 
 [header.args]

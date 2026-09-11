@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:29.236599Z
+last_change = 2026-09-11T03:35:17.240292Z
 addr = 0x2147190
 size = 0xd4
-name = "CEntitySystem_DoDestructEntity"
-type = "long long"
+name = "CEntitySystem_DestroyEntity"
 
 [header]
-name = "CEntitySystem_DoDestructEntity"
+name = "CEntitySystem_DestroyEntity"
 addr = 0x2147190
-type = "long long"
 
 [header.args]

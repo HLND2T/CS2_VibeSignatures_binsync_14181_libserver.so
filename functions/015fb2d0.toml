@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.341081Z
+last_change = 2026-09-11T03:35:17.238844Z
 addr = 0x15fb2d0
 size = 0x71
 name = "CBaseModelEntity_DamageDecal"
-type = "unsigned long long *"
 
 [header]
 name = "CBaseModelEntity_DamageDecal"
 addr = 0x15fb2d0
-type = "unsigned long long *"
 
 [header.args]

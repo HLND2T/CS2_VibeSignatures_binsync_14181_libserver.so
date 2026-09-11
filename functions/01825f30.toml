@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:25.053649Z
+last_change = 2026-09-11T03:35:17.239648Z
 addr = 0x1825f30
 size = 0xa1a
 name = "Host_Say"
-type = "void"
 
 [header]
 name = "Host_Say"
 addr = 0x1825f30
-type = "void"
 
 [header.args]

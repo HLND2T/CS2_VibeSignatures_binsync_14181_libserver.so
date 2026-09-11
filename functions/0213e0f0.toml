@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:28.632844Z
+last_change = 2026-09-11T03:35:17.240207Z
 addr = 0x213e0f0
 size = 0x90
 name = "CEntityInstance_ValidatePrivateScriptScope"
-type = "long long"
 
 [header]
 name = "CEntityInstance_ValidatePrivateScriptScope"
 addr = 0x213e0f0
-type = "long long"
 
 [header.args]

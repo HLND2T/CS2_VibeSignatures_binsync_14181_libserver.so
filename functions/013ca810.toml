@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.340806Z
+last_change = 2026-09-11T03:35:17.238557Z
 addr = 0x13ca810
 size = 0x44d
 name = "GameSystem_Think_CheckSteamBan"
-type = "long long"
 
 [header]
 name = "GameSystem_Think_CheckSteamBan"
 addr = 0x13ca810
-type = "long long"
 
 [header.args]

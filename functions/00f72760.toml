@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.340514Z
+last_change = 2026-09-11T03:35:17.238267Z
 addr = 0xf72760
 size = 0x311
 name = "CSpawnGroupMgrGameSystem_UnloadSpawnGroup"
-type = "long long (__fastcall ****)()"
 
 [header]
 name = "CSpawnGroupMgrGameSystem_UnloadSpawnGroup"
 addr = 0xf72760
-type = "long long (__fastcall ****)()"
 
 [header.args]

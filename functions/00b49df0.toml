@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.340137Z
+last_change = 2026-09-11T03:35:17.237847Z
 addr = 0xb49df0
 size = 0x28d
 name = "CCSPlayerPawnBase_CheckForIdleInternal"
-type = "long long"
 
 [header]
 name = "CCSPlayerPawnBase_CheckForIdleInternal"
 addr = 0xb49df0
-type = "long long"
 
 [header.args]

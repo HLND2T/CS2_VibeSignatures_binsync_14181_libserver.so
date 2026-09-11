@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.342699Z
+last_change = 2026-09-11T03:35:17.240477Z
 addr = 0x2161d30
 size = 0xbf
 name = "CEntitySystem_AddEntityIOEvent"
-type = "long long"
 
 [header]
 name = "CEntitySystem_AddEntityIOEvent"
 addr = 0x2161d30
-type = "long long"
 
 [header.args]

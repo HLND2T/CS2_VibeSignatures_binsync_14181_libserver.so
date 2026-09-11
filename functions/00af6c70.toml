@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.340070Z
+last_change = 2026-09-11T03:35:17.237777Z
 addr = 0xaf6c70
 size = 0x457
 name = "CCSPlayerPawn_OnSwitchWeapons"
-type = "void"
 
 [header]
 name = "CCSPlayerPawn_OnSwitchWeapons"
 addr = 0xaf6c70
-type = "void"
 
 [header.args]

@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:21.269422Z
+last_change = 2026-09-11T03:35:17.239076Z
 addr = 0x16dd2c0
 size = 0xd26
 name = "CEntitySaveRestoreBlockHandler_WriteSaveHeaders"
-type = "long long"
 
 [header]
 name = "CEntitySaveRestoreBlockHandler_WriteSaveHeaders"
 addr = 0x16dd2c0
-type = "long long"
 
 [header.args]

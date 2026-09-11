@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.340455Z
+last_change = 2026-09-11T03:35:17.238208Z
 addr = 0xf419d0
 size = 0x168
 name = "CBaseEntity_EmitSoundFilter"
-type = "long long"
 
 [header]
 name = "CBaseEntity_EmitSoundFilter"
 addr = 0xf419d0
-type = "long long"
 
 [header.args]

@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.342182Z
+last_change = 2026-09-11T03:35:17.239937Z
 addr = 0x1912b10
 size = 0x392
 name = "CSource2GameClients_OnClientConnected"
-type = "unsigned long long"
 
 [header]
 name = "CSource2GameClients_OnClientConnected"
 addr = 0x1912b10
-type = "unsigned long long"
 
 [header.args]

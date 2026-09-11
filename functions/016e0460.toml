@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.341394Z
+last_change = 2026-09-11T03:35:17.239103Z
 addr = 0x16e0460
 size = 0x76
 name = "CGameEntitySystem_FindEntityByName"
-type = "long long"
 
 [header]
 name = "CGameEntitySystem_FindEntityByName"
 addr = 0x16e0460
-type = "long long"
 
 [header.args]

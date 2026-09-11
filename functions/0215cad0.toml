@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.342668Z
+last_change = 2026-09-11T03:35:17.240444Z
 addr = 0x215cad0
 size = 0x140
 name = "CEntitySystem_QueueDestroyEntity"
-type = "void"
 
 [header]
 name = "CEntitySystem_QueueDestroyEntity"
 addr = 0x215cad0
-type = "void"
 
 [header.args]

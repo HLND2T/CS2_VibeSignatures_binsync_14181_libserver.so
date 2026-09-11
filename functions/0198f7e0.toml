@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.342271Z
+last_change = 2026-09-11T03:35:17.240027Z
 addr = 0x198f7e0
 size = 0x29
 name = "CBaseEntity_PhysicsTouch"
-type = "long long"
 
 [header]
 name = "CBaseEntity_PhysicsTouch"
 addr = 0x198f7e0
-type = "long long"
 
 [header.args]

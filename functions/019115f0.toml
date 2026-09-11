@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.342162Z
+last_change = 2026-09-11T03:35:17.239916Z
 addr = 0x19115f0
 size = 0xbf
 name = "CSource2Server_ServerConVarChanged"
-type = "long long"
 
 [header]
 name = "CSource2Server_ServerConVarChanged"
 addr = 0x19115f0
-type = "long long"
 
 [header.args]

@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.341977Z
+last_change = 2026-09-11T03:35:17.239718Z
 addr = 0x18595e0
 size = 0x477
 name = "CBaseEntity_UpdateOnRemove"
-type = "long long"
 
 [header]
 name = "CBaseEntity_UpdateOnRemove"
 addr = 0x18595e0
-type = "long long"
 
 [header.args]

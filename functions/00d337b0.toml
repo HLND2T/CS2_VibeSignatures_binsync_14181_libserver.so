@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.340277Z
+last_change = 2026-09-11T03:35:17.238017Z
 addr = 0xd337b0
 size = 0x2ec
 name = "CFlashbangProjectile_Spawn"
-type = "long long"
 
 [header]
 name = "CFlashbangProjectile_Spawn"
 addr = 0xd337b0
-type = "long long"
 
 [header.args]

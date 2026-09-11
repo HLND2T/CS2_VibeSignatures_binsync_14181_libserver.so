@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.340756Z
+last_change = 2026-09-11T03:35:17.238505Z
 addr = 0xfb3960
 size = 0x9704
 name = "CBaseEntity_GetScriptDescInternal"
-type = "unsigned long long *"
 
 [header]
 name = "CBaseEntity_GetScriptDescInternal"
 addr = 0xfb3960
-type = "unsigned long long *"
 
 [header.args]

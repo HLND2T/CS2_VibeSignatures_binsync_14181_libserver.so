@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.342368Z
+last_change = 2026-09-11T03:35:17.240127Z
 addr = 0x1ac2e10
 size = 0x3e
 name = "CTriggerGravity_GravityTouch"
-type = "void"
 
 [header]
 name = "CTriggerGravity_GravityTouch"
 addr = 0x1ac2e10
-type = "void"
 
 [header.args]

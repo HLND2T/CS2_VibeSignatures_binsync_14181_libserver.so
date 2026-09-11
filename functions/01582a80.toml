@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.340992Z
+last_change = 2026-09-11T03:35:17.238755Z
 addr = 0x1582a80
 size = 0x5
-name = "CCSPlayer_UseServices_OnUse"
-type = "long long"
+name = "j_CCSPlayer_UseServices_OnUseImpl"
 
 [header]
-name = "CCSPlayer_UseServices_OnUse"
+name = "j_CCSPlayer_UseServices_OnUseImpl"
 addr = 0x1582a80
-type = "long long"
 
 [header.args]

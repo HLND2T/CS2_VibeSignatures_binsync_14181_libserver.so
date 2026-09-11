@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.342511Z
+last_change = 2026-09-11T03:35:17.240272Z
 addr = 0x2146b40
 size = 0x18a
 name = "CEntitySystem_Activate"
-type = "long long"
 
 [header]
 name = "CEntitySystem_Activate"
 addr = 0x2146b40
-type = "long long"
 
 [header.args]

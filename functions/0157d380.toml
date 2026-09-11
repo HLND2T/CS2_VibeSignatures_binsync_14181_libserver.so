@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.340977Z
+last_change = 2026-09-11T03:35:17.238738Z
 addr = 0x157d380
 size = 0xc87
 name = "CCSPlayer_ItemServices_CanAcquire"
-type = "long long"
 
 [header]
 name = "CCSPlayer_ItemServices_CanAcquire"
 addr = 0x157d380
-type = "long long"
 
 [header.args]

@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.340292Z
+last_change = 2026-09-11T03:35:17.238034Z
 addr = 0xd3d880
 size = 0xc7
 name = "CBaseEntity_NetworkStateChangedLog"
-type = "long long"
 
 [header]
 name = "CBaseEntity_NetworkStateChangedLog"
 addr = 0xd3d880
-type = "long long"
 
 [header.args]

@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.340194Z
+last_change = 2026-09-11T03:35:17.237901Z
 addr = 0xc0d240
 size = 0xd8
 name = "BotAdd_CommandHandler"
-type = "long long"
 
 [header]
 name = "BotAdd_CommandHandler"
 addr = 0xc0d240
-type = "long long"
 
 [header.args]

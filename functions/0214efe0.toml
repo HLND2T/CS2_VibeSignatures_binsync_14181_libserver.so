@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:29.488585Z
+last_change = 2026-09-11T03:35:17.240325Z
 addr = 0x214efe0
 size = 0x32f
 name = "CEntitySystem_ExecuteQueuedPostDataUpdateAndActivates"
-type = "long long"
 
 [header]
 name = "CEntitySystem_ExecuteQueuedPostDataUpdateAndActivates"
 addr = 0x214efe0
-type = "long long"
 
 [header.args]

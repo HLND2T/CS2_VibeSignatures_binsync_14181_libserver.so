@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.340335Z
+last_change = 2026-09-11T03:35:17.238081Z
 addr = 0xd647f0
 size = 0x35b
-name = "CBaseEntity_SetGravityScale"
-type = "void"
+name = "CBaseEntity_ScriptSetGravityScale"
 
 [header]
-name = "CBaseEntity_SetGravityScale"
+name = "CBaseEntity_ScriptSetGravityScale"
 addr = 0xd647f0
-type = "void"
 
 [header.args]

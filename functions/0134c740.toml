@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:17.703240Z
+last_change = 2026-09-11T03:35:32.505206Z
 addr = 0x134c740
 size = 0x602
 name = "PolymorphicHelper_t__SetPolymorphicPointer"
-type = "long long"
 
 [header]
 name = "PolymorphicHelper_t__SetPolymorphicPointer"
 addr = 0x134c740
-type = "long long"
 
 [header.args]

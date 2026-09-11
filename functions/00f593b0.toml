@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.340502Z
+last_change = 2026-09-11T03:35:17.238256Z
 addr = 0xf593b0
 size = 0xec0
 name = "CSpawnGroupMgrGameSystem_SpawnGroupSpawnEntitiesInternal"
-type = "long long"
 
 [header]
 name = "CSpawnGroupMgrGameSystem_SpawnGroupSpawnEntitiesInternal"
 addr = 0xf593b0
-type = "long long"
 
 [header.args]

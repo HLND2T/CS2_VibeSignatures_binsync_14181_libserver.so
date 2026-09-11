@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:15.006444Z
+last_change = 2026-09-11T03:35:17.238135Z
 addr = 0xed8780
 size = 0x471
 name = "CBodyGameSystem_SpawnDependencyIsland"
-type = "unsigned long long"
 
 [header]
 name = "CBodyGameSystem_SpawnDependencyIsland"
 addr = 0xed8780
-type = "unsigned long long"
 
 [header.args]

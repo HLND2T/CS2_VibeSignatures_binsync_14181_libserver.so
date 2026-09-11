@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.340095Z
+last_change = 2026-09-11T03:35:17.237804Z
 addr = 0xb04d20
 size = 0xcc6
 name = "CNetworkUtlVectorEmbedded_NetworkStateChanged_m_perRoundStats"
-type = "long long"
 
 [header]
 name = "CNetworkUtlVectorEmbedded_NetworkStateChanged_m_perRoundStats"
 addr = 0xb04d20
-type = "long long"
 
 [header.args]

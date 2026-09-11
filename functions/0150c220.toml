@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.340871Z
+last_change = 2026-09-11T03:35:17.238629Z
 addr = 0x150c220
 size = 0xc
 name = "CCSPlayerController_InventoryUpdateThink"
-type = "void"
 
 [header]
 name = "CCSPlayerController_InventoryUpdateThink"
 addr = 0x150c220
-type = "void"
 
 [header.args]

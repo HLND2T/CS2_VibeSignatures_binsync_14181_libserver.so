@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.341181Z
+last_change = 2026-09-11T03:35:17.238919Z
 addr = 0x1616080
 size = 0x56
 name = "CBasePlayerController_GetPawn"
-type = "long long"
 
 [header]
 name = "CBasePlayerController_GetPawn"
 addr = 0x1616080
-type = "long long"
 
 [header.args]

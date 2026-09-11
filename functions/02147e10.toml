@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.342539Z
+last_change = 2026-09-11T03:35:17.240301Z
 addr = 0x2147e10
 size = 0x8c
 name = "CEntitySystem_ReleaseKeyValues"
-type = "long long"
 
 [header]
 name = "CEntitySystem_ReleaseKeyValues"
 addr = 0x2147e10
-type = "long long"
 
 [header.args]

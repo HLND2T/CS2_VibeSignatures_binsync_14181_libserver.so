@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.341560Z
+last_change = 2026-09-11T03:35:17.239265Z
 addr = 0x1747ac0
 size = 0x4ae
 name = "CLoopModeGame_dtor"
-type = "long long"
 
 [header]
 name = "CLoopModeGame_dtor"
 addr = 0x1747ac0
-type = "long long"
 
 [header.args]

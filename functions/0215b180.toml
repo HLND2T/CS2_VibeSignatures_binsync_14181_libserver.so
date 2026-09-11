@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:30.162202Z
+last_change = 2026-09-11T03:35:17.240424Z
 addr = 0x215b180
 size = 0xc4a
 name = "CEntitySystem_ExecuteQueuedDeletion"
-type = "long long"
 
 [header]
 name = "CEntitySystem_ExecuteQueuedDeletion"
 addr = 0x215b180
-type = "long long"
 
 [header.args]

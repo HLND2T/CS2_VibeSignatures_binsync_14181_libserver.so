@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.341066Z
+last_change = 2026-09-11T03:35:17.238828Z
 addr = 0x15d2b20
 size = 0x4f6
 name = "CCSPlayer_WeaponServices_HandleDropWeapon"
-type = "long long"
 
 [header]
 name = "CCSPlayer_WeaponServices_HandleDropWeapon"
 addr = 0x15d2b20
-type = "long long"
 
 [header.args]

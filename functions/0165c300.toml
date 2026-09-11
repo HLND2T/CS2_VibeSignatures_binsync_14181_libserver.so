@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:20.624195Z
+last_change = 2026-09-11T03:35:17.238982Z
 addr = 0x165c300
 size = 0x669
 name = "CBasePlayerController_SetConnectedState"
-type = "long long"
 
 [header]
 name = "CBasePlayerController_SetConnectedState"
 addr = 0x165c300
-type = "long long"
 
 [header.args]

@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:18.637215Z
+last_change = 2026-09-11T03:35:17.238690Z
 addr = 0x155e230
 size = 0xee8
 name = "CBasePlayerController_HandleCommand_JoinTeam"
-type = "long long"
 
 [header]
 name = "CBasePlayerController_HandleCommand_JoinTeam"
 addr = 0x155e230
-type = "long long"
 
 [header.args]

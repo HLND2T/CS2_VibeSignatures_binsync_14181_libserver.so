@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.340045Z
+last_change = 2026-09-11T03:35:17.237751Z
 addr = 0xae9110
 size = 0x25e
 name = "CCSPlayerPawn_CreatePlayerPawnServices"
-type = "long long"
 
 [header]
 name = "CCSPlayerPawn_CreatePlayerPawnServices"
 addr = 0xae9110
-type = "long long"
 
 [header.args]

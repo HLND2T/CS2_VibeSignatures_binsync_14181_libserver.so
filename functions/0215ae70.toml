@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.342641Z
+last_change = 2026-09-11T03:35:17.240414Z
 addr = 0x215ae70
 size = 0x26a
 name = "CEntitySystem_RemoveEntityFromNameMap"
-type = "void"
 
 [header]
 name = "CEntitySystem_RemoveEntityFromNameMap"
 addr = 0x215ae70
-type = "void"
 
 [header.args]

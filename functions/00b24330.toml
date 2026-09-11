@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.340114Z
+last_change = 2026-09-11T03:35:17.237823Z
 addr = 0xb24330
 size = 0x40
 name = "CCSPlayerPawnBase_OnSetDormant"
-type = "long long"
 
 [header]
 name = "CCSPlayerPawnBase_OnSetDormant"
 addr = 0xb24330
-type = "long long"
 
 [header.args]

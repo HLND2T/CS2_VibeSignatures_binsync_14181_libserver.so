@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.342127Z
+last_change = 2026-09-11T03:35:17.239878Z
 addr = 0x190ad10
 size = 0xd1
 name = "CGameRulesGameSystem_OnGameShutdown"
-type = "void"
 
 [header]
 name = "CGameRulesGameSystem_OnGameShutdown"
 addr = 0x190ad10
-type = "void"
 
 [header.args]

@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.341739Z
+last_change = 2026-09-11T03:35:17.239445Z
 addr = 0x17c8940
 size = 0x95
 name = "ClientPrintToController"
-type = "void"
 
 [header]
 name = "ClientPrintToController"
 addr = 0x17c8940
-type = "void"
 
 [header.args]

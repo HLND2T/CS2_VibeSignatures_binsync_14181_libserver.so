@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.342378Z
+last_change = 2026-09-11T03:35:17.240137Z
 addr = 0x1ae96d0
 size = 0x4f5
 name = "CTriggerPush_Touch"
-type = "long long"
 
 [header]
 name = "CTriggerPush_Touch"
 addr = 0x1ae96d0
-type = "long long"
 
 [header.args]

@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.342655Z
+last_change = 2026-09-11T03:35:17.240429Z
 addr = 0x215be70
 size = 0x1c3
 name = "CEntitySystem_ExecuteQueuedCreation"
-type = "long long"
 
 [header]
 name = "CEntitySystem_ExecuteQueuedCreation"
 addr = 0x215be70
-type = "long long"
 
 [header.args]

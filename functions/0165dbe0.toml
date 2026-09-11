@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.341276Z
+last_change = 2026-09-11T03:35:17.238987Z
 addr = 0x165dbe0
 size = 0x3e3
 name = "CBasePlayerController_ClientSettingsChanged"
-type = "long long"
 
 [header]
 name = "CBasePlayerController_ClientSettingsChanged"
 addr = 0x165dbe0
-type = "long long"
 
 [header.args]

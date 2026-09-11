@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.340795Z
+last_change = 2026-09-11T03:35:17.238545Z
 addr = 0x134dc70
 size = 0x378
 name = "CCSGameRules_PlayerSpawn"
-type = "long long"
 
 [header]
 name = "CCSGameRules_PlayerSpawn"
 addr = 0x134dc70
-type = "long long"
 
 [header.args]

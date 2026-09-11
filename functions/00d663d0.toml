@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.340345Z
+last_change = 2026-09-11T03:35:17.238093Z
 addr = 0xd663d0
 size = 0x532
 name = "CBaseEntity_SetMoveType"
-type = "void"
 
 [header]
 name = "CBaseEntity_SetMoveType"
 addr = 0xd663d0
-type = "void"
 
 [header.args]

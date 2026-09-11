@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.342286Z
+last_change = 2026-09-11T03:35:17.240043Z
 addr = 0x1999f80
 size = 0x197
 name = "CRagdollProp_DrawEntityDebugOverlays"
-type = "long long"
 
 [header]
 name = "CRagdollProp_DrawEntityDebugOverlays"
 addr = 0x1999f80
-type = "long long"
 
 [header.args]

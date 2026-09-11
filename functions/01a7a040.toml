@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.342343Z
+last_change = 2026-09-11T03:35:17.240100Z
 addr = 0x1a7a040
 size = 0x329
 name = "CScriptedSequence_SynchronizeSequence"
-type = "long long"
 
 [header]
 name = "CScriptedSequence_SynchronizeSequence"
 addr = 0x1a7a040
-type = "long long"
 
 [header.args]

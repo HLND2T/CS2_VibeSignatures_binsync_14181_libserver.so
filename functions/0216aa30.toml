@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:30.835295Z
+last_change = 2026-09-11T03:35:17.240532Z
 addr = 0x216aa30
 size = 0x26
 name = "CEntityInstance_NetworkUpdateState_thunk"
-type = "long long (__fastcall *)()"
 
 [header]
 name = "CEntityInstance_NetworkUpdateState_thunk"
 addr = 0x216aa30
-type = "long long (__fastcall *)()"
 
 [header.args]

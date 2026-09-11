@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.342619Z
+last_change = 2026-09-11T03:35:17.240390Z
 addr = 0x2157b60
 size = 0x303
 name = "CConcreteEntityList_AllocEntity"
-type = "unsigned long long *"
 
 [header]
 name = "CConcreteEntityList_AllocEntity"
 addr = 0x2157b60
-type = "unsigned long long *"
 
 [header.args]

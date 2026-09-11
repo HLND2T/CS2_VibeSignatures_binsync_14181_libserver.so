@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:39:02.340845Z
+last_change = 2026-09-11T03:35:17.238595Z
 addr = 0x14428e0
 size = 0x897
 name = "CSmokeGrenadeProjectile_Create"
-type = "long long"
 
 [header]
 name = "CSmokeGrenadeProjectile_Create"
 addr = 0x14428e0
-type = "long long"
 
 [header.args]
